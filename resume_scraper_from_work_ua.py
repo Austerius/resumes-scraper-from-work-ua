@@ -32,6 +32,8 @@ month_dictionary = {"января": "1",
                     "октября": "10",
                     "ноября": "11",
                     "декабря": "12"}
+
+
 # function for scraping info from resumes
 def resume_parse(link):
     # forming an absolute link to the resume web page
@@ -83,18 +85,28 @@ def resume_parse(link):
                 salary = int(salary)  # here we got our salary in int type
             print(position)
             print(salary)
-            # TODO categorize position, maybe ditch a salary field(since not all filling this field)
-            print(position_and_salary)
+            # print(position_and_salary)
             # getting employment type
             temp_employment = temp[0].find('p', {'class': "text-muted"})
             employment_type = temp_employment.text
-            # TODO categorize employment type (use dictionary of types)
+            full_time = False
+            part_time = False
+            from_home = False
+            if "полная занятость" in employment_type.lower():
+                full_time = True
+            if "неполная занятость" in employment_type.lower():
+                part_time = True
+            if "удаленная работа" in employment_type.lower():
+                from_home = True
             print(employment_type)
+            print(full_time, part_time, from_home)
             # getting birthday
             birthday_temp = temp[0].find('dd')
             birthday = (re.search("<dd>(.*) <s", str(birthday_temp))).group(1)
-            # TODO transform birthday into datetime
+            day, month, year = birthday.split(" ")
+            birthday_datetime = datetime.date(int(year), int(month_dictionary[month]), int(day))
             print(birthday)
+            print(birthday_datetime)
             # Now scraping main body of the resume
             main_body = ""
             for tag in soup_resume.find('h2', {"class": "cut-top"}).next_siblings:
@@ -163,7 +175,7 @@ if r_work.status_code == 200:  # if we get to the web page successfully
             # print(resume_link)
             # after we got resume link - parse contained info in our special function
             resume_parse(resume_link)
-            time.sleep(1)
+            time.sleep(1)  # wait time between scrapping each single page
     n += 1  # going to the next page of search results
 else:
     # TODO if our status code not 200 - wait and retry several times or exit after all tries where unsuccessful

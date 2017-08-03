@@ -3,7 +3,10 @@ from bs4 import BeautifulSoup
 import time
 import re
 import datetime
+import psycopg2
 # import html
+""" Before running this script, you need to create and set a Postgresql database (use create_postgresql_db.py script)
+    Also, you need to download and install requests, BeautifulSoup and psycopg2 libraries"""
 
 base_url = "https://www.work.ua/"  # our site address
 category_city_url = "resumes-kyiv-it/"  # city and category for search (in our case: IT category in Kiev)
@@ -46,7 +49,11 @@ def resume_parse(link):
         # (well, we supposedly passed pages with photo already, but double check it )
         # print(soup_resume)
         photo = soup_resume.findAll('div', {"class": "pick-full-load hidden-print"})
-        # TODO download photo from here
+        # getting relative photo link
+        photo_link = photo[0].find("img").get("src")
+        abs_photo_link = "https:" + photo_link
+        # print(abs_photo_link)
+        r_photo = requests.get(abs_photo_link, stream=True)  # r_photo.content - our binary data
         #print(photo)
         if not photo:
             return  # exiting from this page, if there is no photo on it
@@ -114,7 +121,14 @@ def resume_parse(link):
                 if str(tag) == """<hr class="wide hidden-print"/>""":
                     break
             #print(main_body)
-            parsed_info = {}  # dictionary with cleaned personal info
+            # dictionary with cleaned personal info
+            parsed_info = {"work_experience": None,
+                           "education": None,
+                           "additional_education": None,
+                           "skills": None,
+                           "languages": None,
+                           "recommendations": None,
+                           "additional_info": None}
             temp_key = ""
             temp_string = ""
             write_string = False
@@ -126,7 +140,7 @@ def resume_parse(link):
                         # looking for the information block
                         if key in line:
                             #print(key, pers_info[key])
-                            temp_key = key
+                            temp_key = pers_info[key]
                             temp_string = ""
                             write_string = True
                             break
@@ -140,9 +154,29 @@ def resume_parse(link):
                     temp_string += temp_line + "\n"
                     # writing/rewriting 'cleaned' info block to appropriate section(represented by key)
                     parsed_info[temp_key] = temp_string
-        # TODO write parsed_info into database
-        for value in parsed_info.values():
-            print(value)
+        # forming sql request for inserting mined data into database
+        SQL = """INSERT INTO resumes( person_name, resume_date, photo, position, salary, full_time, part_time,
+                 from_home, birthday, work_experience, education, additional_education, skills, languages,
+                 recommendations, additional_info) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+                  %s, %s, %s, %s)"""
+        # connecting and writing to db
+        con = psycopg2.connect(user="postgres", password="Qwert1234", dbname="work_ua_scraper")
+        cur = con.cursor()
+        try:
+            cur.execute(SQL, (name, resume_datetime, r_photo.content, position, salary, full_time, part_time,
+                              from_home, birthday_datetime, parsed_info["work_experience"], parsed_info["education"],
+                              parsed_info["additional_education"], parsed_info["skills"], parsed_info["languages"],
+                              parsed_info["recommendations"], parsed_info["additional_info"]))
+            cur.connection.commit()
+            print("{} resume has been written to database!".format(name))
+        except psycopg2.IntegrityError:
+            print("{} resume from {}  already in the database".format(name, resume_datetime))
+            pass  # don't write already existing resume to database
+        finally:
+            cur.close()
+            con.close()
+        # for value in parsed_info.values():
+        #     print(value)
     else:
         return  # exiting from function if response not '200'
 

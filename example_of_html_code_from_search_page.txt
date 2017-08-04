@@ -1,0 +1,990 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Keywords" content="работа в киеве, работа, работа в украине, вакансии, резюме, поиск работы, ищу работу, работодатели, подбор персонала, work ua, ворк юа">
+<meta name="Description" content="20091 резюме в сфере «IT, компьютеры, интернет» в Киеве на Work.ua. Найти сотрудника теперь просто. Поиск резюме по запросу и фильтры по параметрам помогут вам подобрать лучший персонал в Киеве.">
+<meta http-equiv="content-language" content="ru">
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:url" content="https://www.work.ua/resumes-kyiv-it/">
+<meta property="og:title" content="Резюме в разделе IT, компьютеры, интернет в Киеве">
+<meta property="og:description" content="Поиск резюме в разделе «IT, компьютеры, интернет» в Киеве.">
+<meta property="og:image" content="https://i.work.ua/i/og/workua-logo.png">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:locale:alternate" content="uk_UA">
+<meta name="msapplication-config" content="//st.work.ua/browser/ie/browserconfig.xml?v2=1">
+
+<title>IT, компьютеры, интернет. Поиск резюме и подбор персонала в Киеве — Work.ua</title>
+
+<script>
+dataLayer=[{userType:'employer'}];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W6CVFN');
+</script>
+
+<link rel="shortcut icon" href="//st.work.ua/browser/favicon.ico?v2=1">
+<link rel="apple-touch-icon" sizes="60x60" href="//st.work.ua/browser/safari/apple-touch-icon-60x60.png?v=1">
+<link rel="apple-touch-icon" sizes="76x76" href="//st.work.ua/browser/safari/apple-touch-icon-76x76.png?v=1">
+<link rel="apple-touch-icon" sizes="120x120" href="//st.work.ua/browser/safari/apple-touch-icon-120x120.png?v=1">
+<link rel="apple-touch-icon" sizes="152x152" href="//st.work.ua/browser/safari/apple-touch-icon-152x152.png?v=1">
+<link rel="apple-touch-icon" sizes="167x167" href="//st.work.ua/browser/safari/apple-touch-icon-167x167.png?v=1">
+<link rel="apple-touch-icon" sizes="180x180" href="//st.work.ua/browser/safari/apple-touch-icon-180x180.png?v=1">
+<link rel="mask-icon" href="//st.work.ua/browser/safari/website_icon.svg?v2=1" color="#00a1f1">
+<link rel="yandex-tableau-widget" href="//st.work.ua/browser/yandex-tableau/manifest.json?v2=11">
+
+<style>.header-default .header-message,.header-default .header-message .link-close,.header-default .header-message a{color:#fff}.header-default .header-message,.header-inverse .header-message{float:left;max-width:790px;position:relative}.header-default .header-message{background-color:#008ed5}.header-default .header-message:after,.header-inverse .header-message:after{border-right:10px solid transparent;border-left:10px solid transparent;content:" ";position:absolute;bottom:-10px;left:42px;width:0;height:0;vertical-align:middle;z-index:10}.header-default .header-message:after{border-top:10px solid #008ed5}.header-default .header-message .link-close,.header-inverse .header-message .link-close{font-size:20px;right:0;top:0;opacity:.5;filter:alpha(opacity=50)}.header-default .header-message div,.header-inverse .header-message div{padding:10px 50px 10px 15px}.header-inverse .header-message{background-color:#fff5cc;color:#6b7886}.header-inverse .header-message:after{border-top:10px solid #fff5cc}.btn-warning,.notification{background-color:#ff9500;color:#fff}.row{margin-left:-20px;margin-right:-20px}.col-md-4.col-right,.col-md-8.col-left{position:relative;min-height:1px;padding-left:20px;padding-right:20px}.notification{position:relative}.notification .glyphicon-warning-sign{font-size:24px;position:absolute}.notification p{padding-left:30px}.notification a{color:#fff;text-decoration:underline}.notification a.btn,.notification a:focus,.notification a:hover{text-decoration:none}.btn-warning{border-color:#fff}.btn-warning.active,.btn-warning.focus,.btn-warning:active,.btn-warning:focus,.btn-warning:hover,.open>.dropdown-toggle.btn-warning{color:#fff;background-color:#c70;border-color:#e0e0e0}.btn-warning.active,.btn-warning:active,.open>.dropdown-toggle.btn-warning{background-image:none}.btn-warning.disabled,.btn-warning.disabled.active,.btn-warning.disabled.focus,.btn-warning.disabled:active,.btn-warning.disabled:focus,.btn-warning.disabled:hover,.btn-warning[disabled],.btn-warning[disabled].active,.btn-warning[disabled].focus,.btn-warning[disabled]:active,.btn-warning[disabled]:focus,.btn-warning[disabled]:hover,fieldset[disabled] .btn-warning,fieldset[disabled] .btn-warning.active,fieldset[disabled] .btn-warning.focus,fieldset[disabled] .btn-warning:active,fieldset[disabled] .btn-warning:focus,fieldset[disabled] .btn-warning:hover{background-color:#ff9500;border-color:#fff}.btn-warning .badge{color:#ff9500;background-color:#fff}.btn-warning:active,.btn-warning:focus,.btn-warning:hover{background-color:#de8500}@media (min-width:992px){.col-md-8.col-left{float:left;width:71.5686275%}.col-md-4.col-right{float:left;width:28.4313725%}.notification .glyphicon-warning-sign{top:10px}}button,h1,h2,input,select{color:inherit;font-family:inherit}.form-control,header,nav,section{display:block}.btn,img{vertical-align:middle}.btn,.form-control{background-image:none}.btn,.dropdown-menu>li>a,.label,.nowrap{white-space:nowrap}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}a{background-color:transparent;color:#008ed5;text-decoration:none}.form-control,body{background-color:#fff}b{font-weight:700}img{border:0}button,input,select{color:inherit;font:inherit;margin:0}button{overflow:visible;-webkit-appearance:button}button,select{text-transform:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{margin:0;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:1.41176471;color:#000}button,input,select{font-size:inherit;line-height:inherit}h1,h2{font-weight:500;line-height:1.1;margin-top:24px;margin-bottom:12px}h1{font-size:32px}h2{font-size:24px}.small{font-size:88%}.text-muted{color:#6b7886}.text-danger{color:#ff3b30}.container{margin-right:auto;margin-left:auto;padding-left:20px;padding-right:20px}@media (min-width:768px){.container{width:760px}}@media (min-width:992px){.container{width:980px}}@media (min-width:1200px){.container{width:1020px}}.row{margin-left:-20px;margin-right:-20px}.col-md-4,.col-md-5,.col-md-7,.col-md-8,.col-sm-5,.col-sm-6,.col-sm-7,.col-xs-4,.col-xs-8{position:relative;min-height:1px;padding-left:20px;padding-right:20px}.col-xs-4,.col-xs-8{float:left}.col-xs-8{width:66.66666667%}.col-xs-4{width:33.33333333%}@media (min-width:768px){.col-sm-5,.col-sm-6,.col-sm-7{float:left}.col-sm-7{width:58.33333333%}.col-sm-6{width:50%}.col-sm-5{width:41.66666667%}}@media (min-width:992px){.col-md-4,.col-md-5,.col-md-7,.col-md-8{float:left}.col-md-8{width:66.66666667%}.col-md-7{width:58.33333333%}.col-md-5{width:41.66666667%}.col-md-4{width:33.33333333%}}label{max-width:100%;margin-bottom:5px;font-weight:700}input[type=checkbox],input[type=radio]{margin:4px 0 0;margin-top:1px\9;line-height:normal}.btn,.form-group{margin-bottom:0}.btn,.dropdown-menu>li>a,.form-control{line-height:1.41176471}.form-control{width:100%;height:40px;color:#000;border:1px solid #b6c9d6;border-radius:0}.form-control::-moz-placeholder{color:#abb2ba;opacity:1}.form-control:-ms-input-placeholder{color:#abb2ba}.form-control::-webkit-input-placeholder{color:#abb2ba}.checkbox,.radio{position:relative;display:block}.checkbox label,.radio label{min-height:24px;margin-bottom:0;font-weight:400}.checkbox input[type=checkbox],.radio input[type=radio]{position:absolute;margin-top:4px\9}.btn{display:inline-block;font-weight:700;text-align:center;touch-action:manipulation;border:1px solid transparent;padding:5px 20px;font-size:17px;border-radius:5px}.btn-default{color:#fff;background-color:#00a1f1;border-color:transparent}.dropdown{position:relative}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;list-style:none;font-size:17px;text-align:left;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:5px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175);background-clip:padding-box}.glyphicon,.nav>li,.nav>li>a,.navbar{position:relative}.dropdown-menu .divider{height:1px;margin:11px 0;overflow:hidden;background-color:#e5e5e5;padding-bottom:0}.nav,.navbar{margin-bottom:0}.dropdown-menu>li>a{display:block;padding:3px 20px;clear:both;font-weight:400;color:#008ed5}.pull-right>.dropdown-menu{right:0;left:auto}.nav{padding-left:0;list-style:none}.nav>li{display:block}.nav>li>a{display:block;padding:10px 15px}.navbar{min-height:70px}.container>.navbar-header{margin-right:-20px;margin-left:-20px}@media (min-width:768px){.navbar{border-radius:0}.navbar-header{float:left}.container>.navbar-header{margin-right:0;margin-left:0}}.navbar-nav{margin:11.5px -20px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:24px}@media (min-width:768px){.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:23px;padding-bottom:23px}}.navbar-inverse{background-color:#fff;border-color:#e6e6e6}.navbar-inverse .navbar-nav>li>a{color:#00a1f1}.navbar-inverse .navbar-nav>.active>a{color:#00a1f1;background-color:#e6e6e6}.dropdown-menu>.active>a,.navbar-inverse .navbar-nav>li.active>a,.pagination>.disabled>span{background-color:transparent}.pagination{display:inline-block;padding-left:0;margin:24px 0;border-radius:5px}.pagination>li>a,.pagination>li>span{position:relative;float:left;line-height:1.41176471;text-decoration:none;color:#008ed5;background-color:transparent;margin-left:-1px}.pagination>li:first-child>span{margin-left:0;border-bottom-left-radius:5px;border-top-left-radius:5px}.pagination>li:last-child>a{border-bottom-right-radius:5px;border-top-right-radius:5px}.pagination>.disabled>span{color:#6b7886;border-color:transparent}.label{display:inline;padding:.2em .6em .3em;line-height:1;color:#fff;vertical-align:baseline}.advansed-search-box .advansed-checkbox:after,.advansed-search-box .advansed-checkbox:before,.advansed-search:after,.advansed-search:before,.card:after,.card:before,.clearfix:after,.clearfix:before,.container:after,.container:before,.nav:after,.nav:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.row:after,.row:before{content:" ";display:table}.hidden,.hide,.visible-xs-block,.visible-xs-inline,.visible-xs-inline-block{display:none!important}.advansed-search-box .advansed-checkbox:after,.advansed-search:after,.card:after,.clearfix:after,.container:after,.nav:after,.navbar-header:after,.navbar:after,.row:after{clear:both}.pull-right{float:right!important}.pull-left{float:left!important}@-ms-viewport{width:device-width}@media (max-width:767px){.visible-xs-block{display:block!important}.visible-xs-inline{display:inline!important}.visible-xs-inline-block{display:inline-block!important}.hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.hidden-sm{display:none!important}}@font-face{font-family:glyphicons-work1;src:url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.eot?v=9);src:url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.eot?v=9#iefix) format('embedded-opentype'),url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.woff?v=9) format('woff'),url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.ttf?v=9) format('truetype'),url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.svg?v=9#glyphicons-work) format('svg')}.glyphicon{top:3px;display:inline-block;font-family:glyphicons-work1;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.glyphicon-add:before{content:"\2295"}.glyphicon-chevron-down:before{content:"\e259"}.glyphicon-chevron-left:before{content:"\e257"}.glyphicon-chevron-right:before{content:"\e258"}.glyphicon-cog:before{content:"\2699"}.glyphicon-company:before{content:"\2645"}.glyphicon-remove:before{content:"\e014"}.glyphicon-search:before{content:"\e003"}.header-inverse .navbar-nav li.active a{color:#000!important}.header-inverse .link-section{margin:10px 0 5px}.navbar{border:0}.navbar-inverse .navbar-header{float:left;margin-left:0}@media (max-device-width:480px) and (orientation:portrait),only screen and (max-width:320px){.navbar-inverse .navbar-header{padding-top:15px}}.navbar-inverse .navbar-nav{float:right}@media (max-width:767px){.navbar-inverse .navbar-nav{margin:0}}.navbar-inverse .navbar-nav .glyphicon{top:0}.navbar-inverse .navbar-nav span.visible-xs-block{font-size:11px;font-weight:400}h1,h2{font-weight:700}.navbar-inverse .navbar-nav>li{float:left;font-size:20px;font-weight:700;margin-left:40px;padding-bottom:0}.navbar-inverse .navbar-nav>li>a{height:70px;padding:15px 0 0}@media (min-width:768px){.navbar-inverse .navbar-nav .glyphicon{display:none}.navbar-inverse .navbar-nav>li>a{padding:23px 0 0}.navbar-inverse{margin-bottom:10px}}.navbar-inverse .navbar-nav .nav-name,.navbar-inverse .navbar-nav .nav-name-xs{display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.navbar-inverse .navbar-nav .nav-name{max-width:240px}@media (max-width:991px){.navbar-inverse .navbar-nav>li{margin-left:25px;text-align:center}.navbar-inverse .navbar-nav .nav-name{max-width:120px}}.navbar-inverse .navbar-nav .nav-name-xs{max-width:70px}@media (min-width:430px) and (max-width:767px){.navbar-inverse{margin-top:10px}}.navbar-inverse .navbar-header{padding-top:13px}@media (max-width:767px){.navbar-inverse .navbar-nav>li{font-size:30px}.navbar-inverse .navbar-nav>li>a{line-height:13px}.navbar-inverse .navbar-header{padding-top:7px}h1{font-size:24px}}@media (max-width:429px) and (orientation:portrait),(max-width:480px){.navbar-inverse .navbar-header{padding-top:15px}}a#logo-emp{background-image:url(//st.work.ua/i/work-ua-emp-ru.png?v=1);background-size:150px 50px;background-repeat:no-repeat;display:block;float:left;width:150px;height:50px}@media (max-width:480px){.navbar-inverse{margin-top:0}a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye.png?v=1)!important;background-size:40px 40px;width:40px;height:55px;margin:0}}@media (max-width:480px) and (-webkit-min-device-pixel-ratio:2),(max-width:480px) and (min-resolution:192dpi){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye@2x.png?v=1)!important;background-size:40px auto!important}}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-emp-ru@2x.png?v=1);background-size:150px auto}}@media (max-width:429px) and (orientation:portrait){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye.png?v=1)!important;background-size:40px 40px;width:40px;height:55px;margin:0}}@media (max-width:429px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2),(max-width:429px) and (orientation:portrait) and (min-resolution:192dpi){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye@2x.png?v=1)!important;background-size:40px auto}}h1,h2{margin:0}h1{padding:25px 0 5px}h2{color:#2c3f52;padding:20px 0 5px}.label,.text-basic,h2 .text-muted{font-weight:400}@media (max-width:767px){h2{font-size:19px}}p{margin:10px 0}ul{margin-top:10px;margin-bottom:5px}ul li{padding-bottom:5px}ul.list-dot-gray{list-style:none;padding-left:15px}.col-md-4.col-right,.col-md-8.col-left{min-height:1px;padding-left:20px;padding-right:20px;position:relative}ul.list-dot-gray li:before{content:'\2022';color:#abb2ba;display:block;font-size:25px;max-width:0;max-height:0;position:relative;left:-15px;top:-5px}@media (min-width:992px){.col-md-8.col-left{float:left;width:71.5686275%}.col-md-4.col-right{float:left;width:28.4313725%}}.dropdown-menu>.active>a{text-decoration:none;outline:0;color:#000}.dropdown-toggle{display:inline-block}.text-gray-light{color:#abb2ba!important}.text-black{color:#000!important}.text-magenta-light{color:#e95087!important}.text-basic{font-size:17px;line-height:1.41176471;padding:0}.text-opacity{color:#ccecfc!important}.main-center{padding-bottom:50px}.main-center>.container{position:relative}.card{background-color:#fff;border:1px solid #e9ebed;margin-bottom:-1px;padding:0 30px 20px;position:relative}.card-visited h2 a:visited{color:#c23ea0}.card-photo .photo-holder{min-height:155px}.card-photo .photo-holder>*{padding-right:145px}.card-photo .photo{position:absolute;top:20px;right:30px;z-index:50}.card-photo .photo img{width:100px;height:135px}@media (max-width:767px){.card-photo .photo-holder{min-height:120px}.card-photo .photo-holder>*{padding-right:95px}.card-photo .photo-holder>ul{padding-right:0}.card-photo .photo{right:20px}.card-photo .photo img{width:75px;height:auto}.card{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;border-left:none;border-right:0}select.form-control{max-width:250px}}.bg-gray{background-color:#f4f5f6}.label{border-radius:.45em;font-size:80%;text-align:left}.label-pro{background-color:#deddf7;color:#5856d6}.btn-search{color:#fff;background-color:#e42469;border-color:transparent}.form-group{margin-top:20px}.form-control{font-size:19px;padding:7px 10px;-webkit-box-shadow:none;box-shadow:none}select.form-control{display:inline;font-size:17px;margin-top:5px;height:35px;width:auto}select{outline:0;margin-bottom:5px}.checkbox,.radio{margin-top:5px;margin-bottom:5px}.checkbox+.checkbox,.radio+.radio{margin-top:5px}label{display:block}.checkbox label,.radio label{display:inline-block;padding-left:25px}.checkbox input[type=checkbox],.radio input[type=radio]{margin-left:-25px}.form-group p.text-danger{margin-top:2px;margin-bottom:0}.has-indent{border:1px solid transparent;display:inline-block;margin-top:-5px;padding:0 5px}.pagination{margin-top:30px;margin-bottom:0}.pagination>li{display:inline-block;padding-bottom:0}.pagination>li>a,.pagination>li>span{border:2px solid transparent;border-radius:22px;display:inline-block;padding:7px 15px}.pagination>li>span{color:#6b7886}.pagination>.no-style>span{background-color:transparent;border-radius:0;border-color:transparent}.pagination.visible-xs-block{text-align:center}.pagination.visible-xs-block>.circle-style>a,.pagination.visible-xs-block>.circle-style>span{background-color:#fff;border-color:#e9ebed;border-radius:22px;padding:7px 11px}body{position:relative}.border{border:1px solid #e9ebed}.h-30{margin-bottom:30px}.add-top{margin-top:20px}@media (max-width:767px){.no-pull-xs{float:none!important}}.gradient{background:#5856d6;background:-moz-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);background:-webkit-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);background:-o-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);background:-ms-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e4246a', endColorstr='#0085c2', GradientType=1)}.header-info{padding-bottom:10px}.header-info .form-group,.header-info .form-group .btn-search,.header-info .form-group .input-holder{margin-top:10px}.header-info .form-group .input-holder{margin-right:10px;float:left}.header-info .form-group .input-search-job{width:480px}.header-info .form-group .input-search-city{width:295px}@media (min-width:768px) and (max-width:1199px){.header-info .form-group .input-search-job{width:460px}.header-info .form-group .input-search-city{width:275px}}.header-info .form-group .btn-search{font-size:19px;padding:6px 15px;width:185px}@media (max-width:991px){.header-info .form-group .btn-search,.header-info .form-group .input-search-city{width:355px}}@media (max-width:767px){.header-info .form-group .btn-search,.header-info .form-group .input-search-city{width:100%;max-width:100%}.header-info .form-group .btn-search.btn-icon-loop{padding:2px 15px 1px 10px}.header-info .form-group .btn-search.btn-icon-loop .glyphicon-search{font-size:30px}}.header-info-limited .form-group{margin:20px 0}.header-info-limited .form-group .input-search-job{width:460px}.header-info-limited .form-group .input-search-city{width:220px}@media (min-width:768px) and (max-width:1199px){.header-info-limited .form-group .input-search-job{width:420px}.header-info-limited .form-group .input-search-city{width:235px}}@media (max-width:991px){.header-info-limited .form-group .input-search-city{width:445px}}@media (max-width:767px){.header-info-limited .form-group .input-search-city{width:220px}}.header-info-limited .form-group .btn-search{width:115px}@media (max-width:767px){.header-info-limited .form-group .btn-search{padding-left:10px;padding-right:10px;width:50px}}.header-info-limited p.small{margin-top:20px;margin-bottom:-5px}@media (max-width:991px){.header-info .input-search-job{width:100%!important}}.header-info.gradient .advansed-search-box{background-color:transparent}.border-dashed{border-bottom:1px dashed #80d0f8}.link-close{display:block;position:absolute;z-index:50;width:45px;height:45px;padding:10px 0 0 10px;top:15px;right:20px;color:#abb2ba;font-size:24px}.link-close .glyphicon-remove{top:0}.glyphicon-cog{font-size:22px}.glyph-indent{margin-left:5px;margin-right:5px}.input-holder{position:relative}.input-holder input.form-control{padding-right:40px}.input-holder .link-close{width:25px;height:25px;padding:0;top:7px;right:10px}.advansed-search{font-size:88%;color:#6b7886}.advansed-search .pull-left{margin-right:25px;margin-bottom:15px}.advansed-search select{width:130px}.advansed-search .select-wide select{width:290px}@media (max-width:767px){.link-close{right:10px}.advansed-search .select-wide select{width:100%}}.advansed-search .select-last{margin-right:0}.advansed-search-box{background-color:#008ed5;margin-bottom:-10px}.advansed-search-box .advansed-checkbox{color:#fff;font-size:88%;padding:10px 0 15px}.advansed-search-box .advansed-checkbox .checkbox{float:left;margin-right:30px}.pick-full-load{width:1px;height:1px;overflow:hidden;position:absolute}.pick-full-load img{visibility:hidden}</style>
+
+
+
+
+<link rel="canonical" href="https://www.work.ua/resumes-kyiv-it/" />
+<link rel="alternate" hreflang="ru" href="https://www.work.ua/resumes-kyiv-it/" />
+<link rel="alternate" hreflang="uk" href="https://www.work.ua/ua/resumes-kyiv-it/" />
+</head>
+
+<body data-target="#sidenav-spy" data-spy="scroll">
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W6CVFN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+<header class="header-inverse">
+    <div class="container hidden-print">
+
+<div class="pull-right link-section hidden-xs">
+<a href="/" class="text-magenta-light">Соискателю<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+</div>
+</div>
+
+<nav class="navbar navbar-inverse">
+<div class="container hidden-print">
+<div class="navbar-header">
+<a href="/employer/" id="logo-emp"></a>
+</div>
+<ul class="nav navbar-nav">
+<li  class="active"><a href="/resumes/"><span class="glyphicon glyphicon-search"></span><span class="hidden-xs">Найти резюме</span><span class="visible-xs-block">Резюме</span></a>
+</li>
+<li><a href="/employer/register/"><span class="glyphicon glyphicon-add"></span><span class="hidden-xs">Создать вакансию</span><span class="visible-xs-block">Вакансия</span></a></li>
+<li><a class="visible-xs-block" href="/employer/login/"><span class="glyphicon glyphicon-lock"></span><span class="visible-xs-block">Войти</span></a><a href="/employer/login/" class="btn btn-default hidden-xs">Войти</a></li>
+</ul>
+</div>
+</nav>
+
+
+
+<section class="header-info header-info-limited gradient">
+<form action="/resumes/" id="searchform">
+<div class="container">
+<div class="form-group clearfix">
+<div class="input-holder input-search-job">
+<input type="text" value="" class="form-control" id="search" name="search" placeholder="Запрос">
+<a href="javascript:void(0)" class="link-close hidden"><span class="glyphicon glyphicon-remove"></span></a>
+<div id="resumename-holder"></div>
+</div>
+
+<div class="input-holder input-search-city">
+<input type="text" autocomplete="off" value="Киев" placeholder="Город" class="js-main-region form-control">
+<a href="javascript:void(0)" class="link-close js-region-reset hidden"><span class="glyphicon glyphicon-remove"></span></a>
+<input type="hidden" class="js-rvalue" name="region" value="39">
+</div>
+
+<button type="submit" class="btn btn-search btn-icon-loop"><span class="hidden-xs">Найти</span><span class="glyphicon glyphicon-search visible-xs-inline"></span></button>
+<p class="pull-right small"><a href="javascript:;" class="text-opacity border-dashed" id="adv-search">Расширенный поиск</a></p>
+</div>
+</div>
+
+<div class="advansed-search-box" id="adv-bl" style="display: none">
+<div class="container">
+<div class="advansed-checkbox">
+<div class="checkbox">
+<label for="f1"><input type="checkbox" value="1" name="searchTitle" id="f1" checked>Только в заголовке</label>
+</div>
+<div class="checkbox">
+<label for="f2"><input type="checkbox" value="1" name="swide" id="f2" checked>Включая синонимы</label>
+</div>
+<div class="checkbox">
+<label for="f3"><input type="checkbox" value="1" name="anyword" id="f3" >Искать любое из слов</label>
+</div>
+</div>
+<div class="advansed-search text-opacity">
+<div class="pull-left select-wide">
+<div>Категория:</div>
+<select class="form-control" name="category" id="categ">
+<option value="0">все</option>
+<option value="1" selected>IT, компьютеры, интернет</option><option value="2">Администрация, руководство среднего звена</option><option value="3">Бухгалтерия, аудит</option><option value="4">Гостинично-ресторанный бизнес, туризм</option><option value="5">Дизайн, творчество</option><option value="6">Красота, фитнес, спорт</option><option value="7">Культура, музыка, шоу-бизнес</option><option value="8">Логистика, склад, ВЭД</option><option value="9">Маркетинг, реклама, PR</option><option value="10">Медицина, фармацевтика</option><option value="11">Недвижимость</option><option value="12">Образование, наука</option><option value="13">Охрана, безопасность</option><option value="22">Продажи, закупки</option><option value="14">Рабочие специальности, производство</option><option value="23">Розничная торговля</option><option value="15">Секретариат, делопроизводство, АХО</option><option value="30">Сельское хозяйство, агробизнес</option><option value="17">СМИ, издательство, полиграфия</option><option value="18">Страхование</option><option value="19">Строительство, архитектура</option><option value="20">Сфера обслуживания</option><option value="6792">Телекоммуникации и связь</option><option value="21">Топ-менеджмент, руководство высшего звена</option><option value="24">Транспорт, автобизнес</option><option value="25">Управление персоналом, HR</option><option value="26">Финансы, банк</option><option value="27">Юриспруденция</option><option value="32">Другие сферы деятельности</option>
+</select>
+</div>
+<div class="pull-left">
+<div>Зарплата:</div>
+<select name="salary" class="form-control">
+<option value="0">любая</option>
+<option value="60">До 1500 грн.</option><option value="62">От 1501 до 3500 грн.</option><option value="63">От 3501 до 7000 грн.</option><option value="64">От 7001 до 15000 грн.</option><option value="65">Больше 15000 грн.</option><option value="162">Без указания</option>
+</select>
+</div>
+
+
+<div class="pull-left">
+<div>Образование:</div>
+<select class="form-control" name="education">
+<option value="0">любое</option>
+<option value="66">высшее</option><option value="67">неоконченное высшее</option><option value="68">среднее специальное</option><option value="69">среднее</option>
+</select>
+</div>
+<div class="pull-left">
+<div>Вид занятости:</div>
+<select name="sel_zan" class="form-control">
+<option value="0">любой</option>
+<option value="74">полная занятость</option><option value="75">неполная занятость</option><option value="76">удаленная работа</option>
+</select>
+</div>
+
+<div class="pull-left">
+<div>Опыт работы:</div>
+<select name="experience" class="form-control">
+<option value="0">любой</option>
+<option value="1" >без опыта</option>
+<option value="164">от 1 года</option><option value="165">от 2 лет</option><option value="166">от 5 лет</option>
+</select>
+</div>
+
+
+<div class="pull-left">
+<div>Пол:</div>
+<select name="gender" class="form-control">
+<option value="0">любой</option>
+<option value="86">мужчина</option><option value="87">женщина</option>
+</select>
+</div>
+
+<div class="pull-left">
+<div>Возраст:</div>
+<select name="age" class="form-control">
+<option value="0">любой</option>
+<option value="496">до 20 лет</option><option value="497">21 - 30 лет</option><option value="498">31 - 40 лет</option><option value="499">41 - 50 лет</option><option value="500">51 и старше</option>
+</select>
+</div>
+
+<div class="pull-left select-last">
+<div>Студенты, переселенцы:</div>
+ <select name="stud" class="form-control">
+<option value="0">не важно</option>
+<option value="1" >студент</option>
+<option value="3" >переселенец</option>
+</select>
+</div>
+
+<input type="hidden" name="notitle" value="0">
+<input type="hidden" name="days" value="173">
+<input type="hidden" name="snowide" value="0">
+<input type="hidden" name="advs" id="advs" value="0">
+<input type="hidden" value="1" name="ss">
+</div>
+</div>
+</div>
+</form>
+</section>
+
+
+</header>
+
+
+
+<section id="center" class="main-center bg-gray">
+<div class="container">
+<div class="clearfix h-30"></div>
+
+<div class="row">
+<div class="col-md-8 col-left"><div class="card">
+<div class="row">
+<div class="col-xs-8 col-sm-7 col-md-7">
+<!--<h1 class="add-top text-basic text-muted">3568 резюме: Киев</h1>-->
+<h1 class="add-top text-basic text-muted"><span class="text-black">20091 резюме</span><br> <a href="javascript: void(0)" data-id="1" id="changeCat">IT, компьютеры, интернет</a><span id="catContainer"></span> в&nbsp;Киеве</h1>
+<div class="pick-full-load">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/6/e/6/6e62db209b2b69aac28dd0612265dfd6.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/f/a/0/fa07818fe5f4d61c2a151b96c1f02dec.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/1/5/2/1529c6f94bd4f11a51aa17d9ab4523c8.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/7/0/3/7033e4ee3dbe900aaf61e4fd945abba6.jpg" alt="">
+<img width="300" height="400" src="https://i.work.ua/sent_photo/0/9/8/098ca58679ed88df065f38d901cbcf52.jpg" alt="">
+
+</div>
+
+</div>
+
+<div class="col-xs-4 col-sm-5 col-md-5">
+<div class="add-top dropdown pull-right">
+<a href="javascript:;" class="dropdown-toggle nowrap" role="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="false"><span class="hidden-xs">За 1 год, по дате</span><span class="hidden-xs glyphicon glyph-indent glyphicon-chevron-down"></span><span class="glyphicon glyphicon-cog visible-xs-inline-block text-muted"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li ><a href="/resumes-kyiv-it/?category=1&days=170">За 1 день</a></li>
+<li ><a href="/resumes-kyiv-it/?category=1&days=171">За 7 дней</a></li>
+<li ><a href="/resumes-kyiv-it/?category=1&days=172">За 30 дней</a></li>
+<li class="active"><a href="/resumes-kyiv-it/?category=1&days=173">За 1 год</a></li>
+<li ><a href="/resumes-kyiv-it/?category=1&days=174">Архив</a></li>
+<li role="separator" class="divider"></li>
+
+<li class="active"><a href="/resumes-kyiv-it/?category=1&amp;days=173">По дате</a></li>
+
+<li ><a href="/resumes-kyiv-it/?category=1&amp;days=173&sort=3">По зарплате</a></li>
+
+<li role="separator" class="divider"></li>
+<li class="active"><a href="/resumes-kyiv-it/?category=1&amp;days=173&desc=2">Подробно</a></li>
+<li ><a href="/resumes-kyiv-it/?category=1&amp;days=173&desc=1">Кратко</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<a name="4122953"></a>
+<div class="card card-hover resume-link card-visited
+">
+
+<h2 class=""><a href="/resumes/4122953/" title="QA Tester, резюме от 04.08.17">QA Tester</a></h2>
+<div><b>Шумейко Андрей</b><span class="text-muted">&nbsp;· </span><span>22&nbsp;года</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Неоконченное высшее образование · Полная занятость, неполная занятость, удаленная работа</div><p class="overflow wordwrap">Образование: 09.2015 - 06.2018: Информационные технологии (ДУТ, Киев)....</p><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4122953/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">5 минут назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+ <script>
+function setEventPoll()
+{
+$('#pollButton').click(function() {
+
+var answerIds = []
+$('input[name="optionsR"]:checked').each(function(){
+  answerIds.push($(this).val());
+});
+
+if(answerIds.length>0)
+{
+$.ajax({
+method: "POST",
+url: "/_data/_ajax/process_poll.php",
+data: {questId: $('#questId').val(), answerId: answerIds},
+success: function(data){
+data = $.parseJSON(data);
+
+if (data.status)
+{
+$('#poll_form').html(data.html);
+}
+else
+{
+$('#poll_form').parent('.form-group').removeClass('has-danger');
+$('#poll_form .text-danger').addClass('hide');
+}
+}
+})
+}
+else
+{
+$('#poll_form').parent('.form-group').addClass('has-danger');
+$('#poll_form .text-danger').removeClass('hide');
+}
+
+return false;
+});
+}
+</script>
+<a name="4165152"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/6/e/6/6e62db209b2b69aac28dd0612265dfd6.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/4165152/" title="Cisco UC PreSale/Developer (DevNet, Consulting, Implementation, Support), резюме от 04.08.17">Cisco UC PreSale/Developer (DevNet, Consulting, Implementation, Support)</a><span class="text-muted">, <span class="nowrap">60000 грн</span></span></h2>
+<div><b>Голоскевич Артем</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>32&nbsp;года</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость, неполная занятость, удаленная работа</div><ul class="list-dot-gray"><li>Freelancer, <span class="text-muted">Freelance · 8&nbsp;месяцев</span></li>
+<li>Head of Business Solution Architecture &amp; Design, <span class="text-muted">IT-Integrator · 3&nbsp;года&nbsp;1&nbsp;месяц</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4165152/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">16 минут назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="3466128"></a>
+<div class="card card-hover resume-link card-visited
+">
+
+<h2 class=""><a href="/resumes/3466128/" title="Программист Junior SE Java (Android), C#, резюме от 04.08.17">Программист Junior SE Java (Android), C#</a><span class="text-muted">, <span class="nowrap">8500 грн</span></span></h2>
+<div><b>Пилипенко Юрий</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>22&nbsp;года</span><span class="text-muted">&nbsp;· </span><span>Киев, Херсон</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость, неполная занятость, удаленная работа</div><ul class="list-dot-gray"><li>Программист MS SQL Server + Delphi, <span class="text-muted">МАК &quot;Монополия&quot; · 2&nbsp;месяца</span></li>
+</ul>
+<div class="row">
+<div class="col-sm-6">
+<a href="/resumes/3466128/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">21 минуту назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4156005"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/4156005/" title="Junior QA engineer, резюме от 04.08.17">Junior QA engineer</a></h2>
+<div><b>Литвин Богдан</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>21&nbsp;год</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость</div><ul class="list-dot-gray"><li>Smm-менеджер, <span class="text-muted">ecoman · 2&nbsp;месяца</span></li>
+<li>Менеджер по продажам, <span class="text-muted">Weider · 5&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4156005/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">21 минуту назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="2010612"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/f/a/0/fa07818fe5f4d61c2a151b96c1f02dec.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/2010612/" title="Администратор в компьютерный клуб, резюме от 04.08.17">Администратор в компьютерный клуб</a></h2>
+<div><b>Гринь Юрій</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>30&nbsp;лет</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Неоконченное высшее образование · Неполная занятость, удаленная работа</div><ul class="list-dot-gray"><li>&quot;Инженер компьютерных систем&quot;, <span class="text-muted">ГТОО &quot;Юго-Западная железная дорога&quot;, локомотивное депо Дарница · 7&nbsp;лет&nbsp;6&nbsp;месяцев</span></li>
+<li>Помощник машиниста тепловоза, <span class="text-muted">ГТОО &quot;Юго-Западная железная дорога&quot;, локомотивное депо Дарница · 1&nbsp;год&nbsp;11&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/2010612/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">22 минуты назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4155997"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/4155997/" title="Junior Project Manager, резюме от 04.08.17">Junior Project Manager</a></h2>
+<div><b>Литвин Богдан</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>21&nbsp;год</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость</div><ul class="list-dot-gray"><li>Smm-менеджер, <span class="text-muted">ecoman · 2&nbsp;месяца</span></li>
+<li>Менеджер по продажам, <span class="text-muted">Weider · 5&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4155997/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">23 минуты назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4056579"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/4056579/" title="Junior Developer, резюме от 04.08.17">Junior Developer</a></h2>
+<div><b>Литвин Богдан</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>21&nbsp;год</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость</div><ul class="list-dot-gray"><li>Smm-менеджер, <span class="text-muted">ecoman · 2&nbsp;месяца</span></li>
+<li>Менеджер по продажам, <span class="text-muted">Weider · 5&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4056579/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">24 минуты назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4177604"></a>
+<div class="card card-hover resume-link card-visited
+">
+
+<h2 class=""><a href="/resumes/4177604/" title="Маркетолог, резюме от 04.08.17">Маркетолог</a><span class="text-muted">, <span class="nowrap">15000 грн</span></span></h2>
+<div><b>Cкрыто</b><span class="text-muted">&nbsp;· </span><span>26&nbsp;лет</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость</div><ul class="list-dot-gray"><li>Адміністратор/менеджер ІТ депаратаменту, <span class="text-muted">5&nbsp;лет</span></li>
+</ul>
+<div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4177604/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">29 минут назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="2936740"></a>
+<div class="card card-hover resume-link card-visited
+">
+
+<h2 class=""><a href="/resumes/2936740/" title="Python Developer, резюме от 04.08.17">Python Developer</a></h2>
+<div><b>Cкрыто</b><span class="text-muted">&nbsp;· </span><span>28&nbsp;лет</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость</div><ul class="list-dot-gray"><li>Django Developer, <span class="text-muted">1&nbsp;год&nbsp;3&nbsp;месяца</span></li>
+<li>Web Software Developer, <span class="text-muted">Freelance · 5&nbsp;месяцев</span></li>
+</ul>
+<div class="row">
+<div class="col-sm-6">
+<a href="/resumes/2936740/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">44 минуты назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="3533703"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/1/5/2/1529c6f94bd4f11a51aa17d9ab4523c8.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/3533703/" title="UX Designer, резюме от 04.08.17">UX Designer</a><span class="text-muted">, <span class="nowrap">20000 грн</span></span></h2>
+<div><b>Чернецкий Артем</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>23&nbsp;года</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость, удаленная работа</div><ul class="list-dot-gray"><li>UX/UI Designer, <span class="text-muted">Reddata LLC · 2&nbsp;месяца</span></li>
+<li>UXD/PM, <span class="text-muted">IS-Agency · 5&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/3533703/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">45 минут назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4177572"></a>
+<div class="card card-hover resume-link card-visited
+">
+
+<h2 class=""><a href="/resumes/4177572/" title="Помощник системного администратора, резюме от 04.08.17">Помощник системного администратора</a></h2>
+<div><b>Рудов Эдуард</b><span class="text-muted">&nbsp;· </span><span>21&nbsp;год</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Среднее специальное образование · Полная занятость</div><ul class="list-dot-gray"><li>Контент-менеджер, <span class="text-muted">AKS.ua · 1&nbsp;месяц</span></li>
+</ul>
+<div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4177572/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">45 минут назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4177560"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/7/0/3/7033e4ee3dbe900aaf61e4fd945abba6.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/4177560/" title="Контент-менеджер, резюме от 04.08.17">Контент-менеджер</a></h2>
+<div><b>Лапченко Андрей</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>30&nbsp;лет</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Неоконченное высшее образование · Полная занятость</div><ul class="list-dot-gray"><li>Front-end developer, дизайнер, контент-менеджер, <span class="text-muted">Alteks · 2&nbsp;года&nbsp;6&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4177560/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">53 минуты назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="4126848"></a>
+<div class="card card-hover resume-link card-visited
+ card-photo">
+<div class="photo"><img width="100" height="135" src="https://i.work.ua/sent_photo/0/9/8/098ca58679ed88df065f38d901cbcf52.jpg" alt="" class="border"></div>
+<div class="photo-holder">
+
+<h2 class=""><a href="/resumes/4126848/" title="Маркетолог, менеджер, редактор сайта, резюме от 04.08.17">Маркетолог, менеджер, редактор сайта</a><span class="text-muted">, <span class="nowrap">10000 грн</span></span></h2>
+<div><b>Гошко Роман</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>24&nbsp;года</span><span class="text-muted">&nbsp;· </span><span>Киев</span></div>
+
+<div class="text-muted">Высшее образование · Полная занятость, неполная занятость</div><ul class="list-dot-gray"><li>бармен, <span class="text-muted">ФОП Коковихина А.В. · 8&nbsp;месяцев</span></li>
+<li>Бармен, кальянщик, помощник управляющего, <span class="text-muted">Сфера общепита · 5&nbsp;лет&nbsp;9&nbsp;месяцев</span></li>
+</ul>
+</div><div class="row">
+<div class="col-sm-6">
+<a href="/resumes/4126848/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">53 минуты назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<a name="1629468"></a>
+<div class="card card-hover resume-link card-visited
+">
+
+<h2 class=""><a href="/resumes/1629468/" title="Руководитель проекта (PM), департамента, направления, ведущий специалист, резюме от 04.08.17">Руководитель проекта (PM), департамента, направления, ведущий специалист</a></h2>
+<div><b>Галкина Надежда</b> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span><span class="text-muted">&nbsp;· </span><span>39&nbsp;лет</span><span class="text-muted">&nbsp;· </span><span>Днепр (Днепропетровск), Киев</span>, <a href="/resumes/1629468/">еще 3&nbsp;города</a></div>
+
+<div class="text-muted">Высшее образование · Полная занятость, неполная занятость</div><ul class="list-dot-gray"><li>Project Manager, <span class="text-muted">DiJust Development - NetGame · 7&nbsp;месяцев</span></li>
+<li>Руководитель проектов (Project manager) - Департамент внедрения новых продуктов, <span class="text-muted">FARLEP INVEST - ТМ Vega Telecom · 1&nbsp;год&nbsp;4&nbsp;месяца</span></li>
+</ul>
+<div class="row">
+<div class="col-sm-6">
+<a href="/resumes/1629468/">Полное описание<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="col-sm-6">
+<div class="pull-right no-pull-xs text-gray-light">1 час назад</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+<nav>
+    <ul class="pagination hidden-xs">
+                <li class="no-style disabled">
+            <span><span class="glyphicon glyphicon-chevron-left"></span>Предыдущая</span>
+        </li>
+
+
+                        <li class="active"><span title="Страница 1">1</span></li>
+                                <li><a href="/resumes-kyiv-it/?page=2" title="Страница 2">2</a></li>
+                                <li><a href="/resumes-kyiv-it/?page=3" title="Страница 3">3</a></li>
+
+                            <li class="no-style"><span class="ellipsis-style">...</span></li>
+                    <li><a href="/resumes-kyiv-it/?page=1436" title="Страница 1436">1436</a></li>
+
+                <li class="no-style">
+            <a href="/resumes-kyiv-it/?page=2">Следующая<span class="glyphicon glyphicon-chevron-right"></span></a>
+        </li>
+            </ul>
+    <ul class="pagination visible-xs-block">
+                <li class="circle-style disabled">
+            <span><span class="glyphicon glyphicon-chevron-left"></span></span>
+        </li>
+                <li class="no-style"><span class="text-black" title="Стр. 1 из 1436">Стр. 1 из 1436</span></li>
+                <li class="circle-style">
+            <a href="/resumes-kyiv-it/?page=2"><span class="glyphicon glyphicon-chevron-right"></span></a>
+        </li>
+            </ul>
+</nav>
+
+
+
+</div>
+<div class="hidden-xs hidden-sm col-md-4 col-right hidden-print">
+
+
+<noindex><a href="/go.php?bid=1979" target="_blank"  rel="nofollow" class="no-hover"><img src="//i.work.ua/b/1979.png" width="240" height="400" alt="" border="0"></a></noindex>
+
+
+
+
+
+<div class="h-30"></div>
+<div class="panel panel-hot">
+<div class="panel-heading"><b>VIP-резюме</b></div>
+<div class="panel-body text-muted">
+<div>
+<a class="block" href="/resumes/2796602/"><b>Графический, технический дизайнер, оператор ПК (техподдержка), контент-менеджер</b><span class="text-muted">, 7000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/4165642/"><b>Специалист по контекстной рекламе (Google Adwords, Facebook)</b><span class="text-muted">, 12000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/3280777/"><b>Специалист по конверсии продаж Google Adwords (контекстная реклама, лидогенерация)</b><span class="text-muted">, 1950&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;20&nbsp;городов</u></a>
+</div>
+<div>
+<a class="block" href="/resumes/3109377/"><b>Трафик-менеджер, media buyer, интернет-маркетолог</b><span class="text-muted">, 13000&nbsp;грн, Днепр (Днепропетровск), Киев, </span><u>еще&nbsp;3&nbsp;города</u></a>
+</div>
+<div>
+<a class="block" href="/resumes/4132425/"><b>Дизайнер (реклама, полиграфия, web)</b><span class="text-muted">, 6000&nbsp;грн, Винница, Житомир, </span><u>еще&nbsp;7&nbsp;городов</u></a>
+</div>
+<div>
+<a class="block" href="/resumes/2809104/"><b>Программист 1С, архитектор 1С, руководитель ИТ, доцент</b><span class="text-muted">, 50000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/4010086/"><b>Специалист по социальным сетям (создание образа компании в интернете)</b><span class="text-muted">, 8000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/3997562/"><b>Проектный тренер, спикер</b><span class="text-muted">, 7000&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;5&nbsp;городов</u></a>
+</div>
+<div>
+<a class="block" href="/resumes/4148305/"><b>IOS developer</b><span class="text-muted">, Киев, Львов</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/4171270/"><b>SEO-оптимизатор</b><span class="text-muted">, 2000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/2163245/"><b>Интернет-маркетолог (SMM, SEO, контент-менеджмент)</b><span class="text-muted">, 5000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/616755/"><b>Финансист, аналитик, консультант</b><span class="text-muted">, Днепр (Днепропетровск), Запорожье, </span><u>еще&nbsp;5&nbsp;городов</u></a>
+</div>
+<div>
+<a class="block" href="/resumes/1940030/"><b>Специалист по контекстной рекламе Google Adwords, Yandex Direct</b><span class="text-muted">, 3000&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;22&nbsp;города</u></a>
+</div>
+<div>
+<a class="block" href="/resumes/1027822/"><b>Видеодизайнер, motion designer, 2D artist</b><span class="text-muted">, 27000&nbsp;грн, Киев</span></a>
+</div>
+<div>
+<a class="block" href="/resumes/4054252/"><b>Специалист по YouTube, видеомаркетолог</b><span class="text-muted">, 4000&nbsp;грн, Днепр (Днепропетровск), Запорожье, </span><u>еще&nbsp;8&nbsp;городов</u></a>
+</div>
+<div><a class="block text-orange" href="/help/?id=136" target="_blank">Как сделать резюме VIP?</a></div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.container -->
+</section>
+
+<footer class="footer-inverse">
+<div class="container hidden-print">
+<div class="row">
+<div class="col-sm-9 col-md-9">
+<div class="dropdown"><a href="javascript:;" class="dropdown-toggle" role="button" id="dropdownMenu100" data-toggle="dropdown" aria-expanded="true">Русский<span class="glyphicon glyphicon-chevron-down glyph-indent"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu100">
+<li class="active"><a href="">Русский</a></li>
+<li><a href="/ua/resumes-kyiv-it/?setlp=ua">Українська</a></li>
+</ul></div>
+<ul class="list-inline menu-action">
+<li><a href="/services/" class="text-muted">Услуги сайта</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/about-us/" class="text-muted">О нас</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/about-us/contact/" class="text-muted">Контакты</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/news/site/" class="text-muted">Новости сайта</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/employer/resources/" class="text-muted">Ресурсы</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/about-us/conditions/" class="text-muted">Условия использования</a></li>
+
+</ul>
+</div>
+<div class="col-sm-3 col-md-3">
+<a href="/" class="btn btn-supplement pull-right no-pull-xs" role="button">
+Соискателю
+
+<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+</div>
+
+<div class="text-muted">©&nbsp;2006–2017 Work.ua. Сайт поиска работы №1 в Украине.</div>
+
+<hr class="hidden-xs">
+
+<div class="row hidden-xs">
+<div class="col-sm-5 col-md-5">
+<p class="text-muted">Сделано в компании «<a href="http://www.reactor.com.ua/" target="_blank" class="text-danger">Реактор</a>».</p>
+</div>
+<div class="col-sm-7 col-md-7">
+<ul class="list-inline menu-action pull-right no-pull-xs" style="margin-top: 0">
+<li><a href="http://www.education.ua/" class="text-muted" target="_blank">Образование</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="http://www.trn.ua/" class="text-muted" target="_blank">Тренинги</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="http://vse10.ru/" class="text-muted" target="_blank">Клавиатурный тренажер</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="http://www.ratatype.com/" class="text-muted" target="_blank">Typing tutor</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+
+<link href="//st.work.ua/css/bootstrap/main-min_1501747688.css" rel="stylesheet">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//st.work.ua/js/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="//i.work.ua/ru/js/lp_1501076143.js"></script>
+
+
+
+<script src="//st.work.ua/js/work-min_1500376574.js"></script>
+
+
+
+
+<script src="//st.work.ua/js/bootstrap/bootstrap-min_1489556447.js"></script>
+
+
+<script src="//st.work.ua/js/bootstrap/bootstrap-affix-fix-min_1489556442.js"></script>
+
+<script>
+$('document').ready(function(){
+// Страница поиска
+// на странице поиска вакансий навешиваем явасккрипт для кнопки "Расширеный поиск"
+// кроме страницы поиска вакансий по городу, там кнопка "Расширеный поиск" это ссылка
+if ($('#searchform').length > 0 && $('#cityPage').length==0)
+{
+// скрываем или показываем подсказки (популярные или похожие профессии под полем для поиска)
+if ($('#adv-search').length>0)
+{
+$('#adv-search').click(function(){
+
+$('#adv-bl').slideToggle(200, function() {
+
+
+if ($('#adv-bl').is(":visible"))
+{
+$('#advs').val(1);
+}
+else
+{
+$('#advs').val(0);
+if(location.search.match(/advs=1/))
+{
+$('.advansed-search div select').val(0);
+$('#f3').prop('checked', false);
+$('#f1, #f2').prop('checked', true);
+$('#searchform').submit();
+}
+
+}
+
+  });
+});
+}
+
+// Подключаем окошко с категориями
+if ($('#changeCat').length > 0)
+{
+$('#changeCat').click(function(){
+
+$(this).hide();
+$('#categ').clone().appendTo( "#catContainer" ).attr('id', 'tmpCat').css('width', '300px');
+$(this).parent('h1').css('margin-top', '8px');
+
+$('#tmpCat').on('change', function() {
+$('#categ').val($(this).val());
+$('#searchform').submit();
+});
+});
+}
+
+
+}
+
+// Разводящая страница города
+if ($('#cityPage').length>0)
+{
+if (!location.href.match(/#/))
+{
+$('#search').focus();
+}
+
+$('.setsearch').setSearch();
+
+//при отправке формы ансетим фильтры со значениями по умолчанию
+$('#searchform').SearchSubmit({
+formtype: 'shortFormEmployer'
+});
+}
+else
+{
+//при отправке формы ансетим фильтры со значениями по умолчанию
+$('#searchform').SearchSubmit({
+formtype: 'resumesSearch'
+});
+}
+
+// открывалка городов и категория на поиске по клику на еще
+if ($('#searchform').length > 0)
+{
+$('.col-md-4 .no-style a').click(function(){
+$(this).parents('ul').children('.hide').removeClass('hide');
+$(this).parent().hide();
+});
+}
+
+if ($('#searchform').length > 0)
+{
+// переход по блокам вакансий
+// Клик по блоку вакансии целиком + переход по ссылке в новом окне
+$('.resume-link').setClickBlock();
+$('#search').SearchComplete();
+}
+
+if (typeof closeMessWindow === "function")
+{
+closeMessWindow();
+}
+
+if (typeof setEventPoll === "function")
+{
+setEventPoll()
+}
+});
+
+</script>
+
+    <noindex>
+
+<div style="display:none;">
+    <a rel="nofollow" id="iuaCounter" href="http://www.i.ua/" target="_blank" onclick="this.href='http://i.ua/r.php?952'" title="Rated by I.UA" class="no-hover"><noscript><img src="https://r.i.ua/s?u952&p6" border="0" width="88" height="31" /></noscript></a>
+    <div id="bigmirCounter">
+        <noscript><a href="http://www.bigmir.net/" target="_blank" style="padding-right:4px"><img src="https://c.bigmir.net/?v132195&s132195&t2"
+            width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a></noscript>
+    </div>
+</div>
+
+
+<script>
+function pageLoaded(d){var f=window,e=f.onload;if(f.addEventListener){f.addEventListener("load",d,!1)}else{if(f.attachEvent){f.attachEvent("onload",d)}else{f.onload=function(){if(typeof e==="function"){e()}d()}}}}function loadScriptCounters(i,f){var l,e="script",k=document,d=k.getElementsByTagName(e)[0];
+if(f&&k.getElementById(f)){return}l=k.createElement(e);l.id=f;l.src=i;d.parentNode.insertBefore(l,d)}
+function BM_Draw(a){if(document.getElementById("bigmirCounter")) document.getElementById("bigmirCounter").innerHTML=('<table cellpadding="0" cellspacing="0" border="0" ><tr><td><div class="cont"><div class="cent"><div><a rel="nofollow" class="no-hover" href="http://www.bigmir.net/" target="_blank">bigmir<span>)</span>net</a></div><div class="counters"><div>'+a.hosts+"</div><div>"+a.hits+'</div></div><br clear="all"/></div></div></td></tr></table>')
+}function bigmirCounter(){var bmN=navigator,bmD=document;bmD.cookie="b=b; path=/";var i=0,bs=[],bm={o:1,v:132195,s:132195,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()*1000000)),w:0};for(var f=self;f!=f.parent;f=f.parent){bm.w++}try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins["Shockwave Flash"])){bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,""))
+}else{for(var f=3;f<20;f++){if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")')){bm.m=f}}}}catch(e){}try{bm.y=bmN.javaEnabled()?1:0}catch(e){}try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){}r=bmD.referrer.slice(7);
+if(r&&r.split("/")[0]!=window.location.host){bm.f=escape(r).slice(0,400);bm.v^=r.length}bm.v^=window.location.href.length;for(var x in bm){if(/^[ovstcnwmydrf]$/.test(x)){bs[i++]=x+bm[x]}}loadScriptCounters("https://c.bigmir.net/?"+bs.join("&"),"bigmir-counter")
+}pageLoaded(function(){setTimeout(bigmirCounter,50)});function iuaCounter(){iS='<img src="'+(window.location.protocol=="https:"?"https":"http")+"://r.i.ua/s?u952&p6&n"+Math.random();iD=document;if(!iD.cookie){iD.cookie="b=b; path=/"}if(iD.cookie){iS+="&c1"
+}iS+="&d"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)+"&w"+screen.width+"&h"+screen.height;iT=iR=iD.referrer.replace(iP=/^[a-z]*:\/\//,"");iH=window.location.href.replace(iP,"");((iI=iT.indexOf("/"))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI)){iS+="&f"+escape(iR)}iS+="&r"+escape(iH);iD.getElementById("iuaCounter").innerHTML=(iS+'" border="0" width="88" height="31" />')}pageLoaded(function(){setTimeout(iuaCounter,50)});
+</script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '712180692188430']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=712180692188430&amp;ev=PixelInitialized" /></noscript>
+</noindex>
+<script type="text/javascript">
+(function() {
+var co = document.createElement("script"); co.type = "text/javascript"; co.async = true;
+cntrs = window.cntrs || [];
+var params = "";
+for (var i = 0, l = cntrs.length; i < l; i++) {
+params = params + "&b["+(100+i)+"]="+cntrs[i][0];
+if (cntrs[i][1] != undefined) params = params + "&nc["+(100+i)+"]=1";
+if (cntrs[i][2] != undefined) params = params + "&uc["+(100+i)+"]=1";
+}
+co.src = "/_data/counter.php?b[0]=56&nc[0]=1&b[1]=731&nc[1]=1&b[2]=1979&uc[2]=1"+params+"&rnd=5984633a5da05";
+var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(co, s);
+})();
+</script>
+</body>
+</html>

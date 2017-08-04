@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Keywords" content="работа в киеве, работа, работа в украине, вакансии, резюме, поиск работы, ищу работу, работодатели, подбор персонала, work ua, ворк юа">
+<meta name="Description" content="Литвин Богдан Романович, Junior QA engineer ищет работу в Киеве. О себе: 21&nbsp;год, высшее образование, опыт работы 2 года. Интересует полная занятость.">
+<meta http-equiv="content-language" content="ru">
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:url" content="https://www.work.ua/resumes/4156005/">
+<meta property="og:title" content="Резюме «Junior QA engineer»">
+<meta property="og:description" content="Литвин Богдан Романович, Junior QA engineer шукає роботу в Киеве. О себе: 21&nbsp;год, высшее образование, опыт работы 2 года.">
+<meta property="og:image" content="https://i.work.ua/i/og/workua-logo.png">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:locale:alternate" content="uk_UA">
+<meta name="msapplication-config" content="//st.work.ua/browser/ie/browserconfig.xml?v2=1">
+
+<title>Резюме «Junior QA engineer», Киев. Литвин Богдан Романович — Work.ua</title>
+
+<script>
+dataLayer=[{userType:'employer'}];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W6CVFN');
+</script>
+
+<link rel="shortcut icon" href="//st.work.ua/browser/favicon.ico?v2=1">
+<link rel="apple-touch-icon" sizes="60x60" href="//st.work.ua/browser/safari/apple-touch-icon-60x60.png?v=1">
+<link rel="apple-touch-icon" sizes="76x76" href="//st.work.ua/browser/safari/apple-touch-icon-76x76.png?v=1">
+<link rel="apple-touch-icon" sizes="120x120" href="//st.work.ua/browser/safari/apple-touch-icon-120x120.png?v=1">
+<link rel="apple-touch-icon" sizes="152x152" href="//st.work.ua/browser/safari/apple-touch-icon-152x152.png?v=1">
+<link rel="apple-touch-icon" sizes="167x167" href="//st.work.ua/browser/safari/apple-touch-icon-167x167.png?v=1">
+<link rel="apple-touch-icon" sizes="180x180" href="//st.work.ua/browser/safari/apple-touch-icon-180x180.png?v=1">
+<link rel="mask-icon" href="//st.work.ua/browser/safari/website_icon.svg?v2=1" color="#00a1f1">
+<link rel="yandex-tableau-widget" href="//st.work.ua/browser/yandex-tableau/manifest.json?v2=11">
+
+<style>.header-default .header-message,.header-default .header-message .link-close,.header-default .header-message a{color:#fff}.header-default .header-message,.header-inverse .header-message{float:left;max-width:790px;position:relative}.header-default .header-message{background-color:#008ed5}.header-default .header-message:after,.header-inverse .header-message:after{border-right:10px solid transparent;border-left:10px solid transparent;content:" ";position:absolute;bottom:-10px;left:42px;width:0;height:0;vertical-align:middle;z-index:10}.header-default .header-message:after{border-top:10px solid #008ed5}.header-default .header-message .link-close,.header-inverse .header-message .link-close{font-size:20px;right:0;top:0;opacity:.5;filter:alpha(opacity=50)}.header-default .header-message div,.header-inverse .header-message div{padding:10px 50px 10px 15px}.header-inverse .header-message{background-color:#fff5cc;color:#6b7886}.header-inverse .header-message:after{border-top:10px solid #fff5cc}.btn-warning,.notification{background-color:#ff9500;color:#fff}.row{margin-left:-20px;margin-right:-20px}.col-md-4.col-right,.col-md-8.col-left{position:relative;min-height:1px;padding-left:20px;padding-right:20px}.notification{position:relative}.notification .glyphicon-warning-sign{font-size:24px;position:absolute}.notification p{padding-left:30px}.notification a{color:#fff;text-decoration:underline}.notification a.btn,.notification a:focus,.notification a:hover{text-decoration:none}.btn-warning{border-color:#fff}.btn-warning.active,.btn-warning.focus,.btn-warning:active,.btn-warning:focus,.btn-warning:hover,.open>.dropdown-toggle.btn-warning{color:#fff;background-color:#c70;border-color:#e0e0e0}.btn-warning.active,.btn-warning:active,.open>.dropdown-toggle.btn-warning{background-image:none}.btn-warning.disabled,.btn-warning.disabled.active,.btn-warning.disabled.focus,.btn-warning.disabled:active,.btn-warning.disabled:focus,.btn-warning.disabled:hover,.btn-warning[disabled],.btn-warning[disabled].active,.btn-warning[disabled].focus,.btn-warning[disabled]:active,.btn-warning[disabled]:focus,.btn-warning[disabled]:hover,fieldset[disabled] .btn-warning,fieldset[disabled] .btn-warning.active,fieldset[disabled] .btn-warning.focus,fieldset[disabled] .btn-warning:active,fieldset[disabled] .btn-warning:focus,fieldset[disabled] .btn-warning:hover{background-color:#ff9500;border-color:#fff}.btn-warning .badge{color:#ff9500;background-color:#fff}.btn-warning:active,.btn-warning:focus,.btn-warning:hover{background-color:#de8500}@media (min-width:992px){.col-md-8.col-left{float:left;width:71.5686275%}.col-md-4.col-right{float:left;width:28.4313725%}.notification .glyphicon-warning-sign{top:10px}}hr,img{border:0}button,h1,h2,input,textarea{color:inherit;font-family:inherit}h1,h2,hr{margin-top:24px}.form-control,.radio,header,nav,section{display:block}.btn,img{vertical-align:middle}.btn,.form-control,.navbar-toggle{background-image:none}.breadcrumb,.dropdown-menu,.list-inline,.nav{list-style:none}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}a{background-color:transparent;color:#008ed5;text-decoration:none}.form-control,body{background-color:#fff}b{font-weight:700}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0;margin-bottom:24px;border-top:1px solid #e9ebed}button,input,textarea{color:inherit;font:inherit;margin:0}body,dd,dt{line-height:1.41176471}button{overflow:visible;text-transform:none;-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input[type=radio]{box-sizing:border-box;padding:0}textarea{overflow:auto}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{margin:0;font-family:Arial,Helvetica,sans-serif;font-size:17px;color:#000}button,input,textarea{font-size:inherit;line-height:inherit}h1,h2{font-weight:500;line-height:1.1;margin-bottom:12px}dt,label{font-weight:700}h1{font-size:32px}h2{font-size:24px}.text-muted{color:#6b7886}.text-danger{color:#ff3b30}ul ul{margin-bottom:0}.list-inline{padding-left:0;margin-left:-5px}.list-inline>li{padding-left:5px;padding-right:5px}dd{margin-left:0}@media (min-width:768px){.dl-horizontal dt{float:left;width:160px;clear:left;text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.dl-horizontal dd{margin-left:180px}.container{width:760px}}.container{margin-right:auto;margin-left:auto;padding-left:20px;padding-right:20px}@media (min-width:992px){.container{width:980px}}@media (min-width:1200px){.container{width:1020px}}.row{margin-left:-20px;margin-right:-20px}.col-md-4,.col-md-8,.col-sm-12,.col-sm-4,.col-xs-12{position:relative;min-height:1px;padding-left:20px;padding-right:20px}.col-xs-12{float:left;width:100%}@media (min-width:768px){.col-sm-12,.col-sm-4{float:left}.col-sm-12{width:100%}.col-sm-4{width:33.33333333%}}@media (min-width:992px){.col-md-4,.col-md-8{float:left}.col-md-8{width:66.66666667%}.col-md-4{width:33.33333333%}}label{max-width:100%;margin-bottom:5px}input[type=radio]{margin:4px 0 0;margin-top:1px\9;line-height:normal}.btn,.form-group,.radio label{margin-bottom:0}.btn,.dropdown-menu>li>a,.form-control{line-height:1.41176471}.form-control{width:100%;height:40px;color:#000;border:1px solid #b6c9d6;border-radius:0}.form-control::-moz-placeholder{color:#abb2ba;opacity:1}.form-control:-ms-input-placeholder{color:#abb2ba}.form-control::-webkit-input-placeholder{color:#abb2ba}textarea.form-control{height:auto}.radio{position:relative}.radio label{min-height:24px;font-weight:400}.radio input[type=radio]{position:absolute;margin-top:4px\9}.btn{display:inline-block;font-weight:700;text-align:center;touch-action:manipulation;border:1px solid transparent;white-space:nowrap;padding:5px 20px;font-size:17px;border-radius:5px}.btn-default,.btn-link{border-color:transparent}.btn-default{color:#fff;background-color:#00a1f1}.btn-link,.dropdown-menu>li>a{color:#008ed5;font-weight:400}.btn-link{border-radius:0;background-color:transparent;-webkit-box-shadow:none;box-shadow:none}.collapse{display:none}.dropdown{position:relative}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;font-size:17px;text-align:left;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:5px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175);background-clip:padding-box}.glyphicon,.nav>li,.nav>li>a,.navbar,.navbar-toggle{position:relative}.nav,.navbar{margin-bottom:0}.dropdown-menu>li>a{display:block;padding:3px 20px;clear:both;white-space:nowrap}.nav{padding-left:0}.nav>li{display:block}.nav>li>a{display:block;padding:10px 15px}.navbar{min-height:70px}.navbar-collapse{overflow-x:visible;padding-right:20px;padding-left:20px;border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}.container>.navbar-header{margin-right:-20px;margin-left:-20px}@media (min-width:768px){.navbar{border-radius:0}.navbar-header{float:left}.navbar-collapse{width:auto;border-top:0;box-shadow:none}.navbar-collapse.collapse{display:block!important;height:auto!important;padding-bottom:0;overflow:visible!important}.container>.navbar-header{margin-right:0;margin-left:0}.navbar-toggle{display:none}}.navbar-toggle{float:right;margin-right:20px;padding:9px 10px;margin-top:18px;margin-bottom:18px;background-color:transparent;border:1px solid transparent;border-radius:5px}.navbar-nav{margin:11.5px -20px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:24px}@media (min-width:768px){.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:23px;padding-bottom:23px}}.navbar-nav>li>.dropdown-menu{margin-top:0;border-top-right-radius:0;border-top-left-radius:0}.navbar-inverse{background-color:#fff;border-color:#e6e6e6}.navbar-inverse .navbar-nav>li>a{color:#00a1f1}.navbar-inverse .navbar-nav>.active>a{color:#00a1f1;background-color:#e6e6e6}.breadcrumb{padding:0;background-color:transparent;border-radius:5px}.breadcrumb>li{display:inline-block}.breadcrumb>li+li:before{color:#ccc}.alert{margin-bottom:24px;border:1px solid transparent;border-radius:5px}.alert>p{margin-bottom:0}.alert-warning{background-color:#ffeacc;border-color:#ffd3b3;color:#000}.dropdown-menu>.active>a,.navbar-inverse .navbar-nav>li.active>a{background-color:transparent}.card:after,.card:before,.clearfix:after,.clearfix:before,.container:after,.container:before,.dl-horizontal dd:after,.dl-horizontal dd:before,.menu-action-more:after,.menu-action-more:before,.menu-action-top:after,.menu-action-top:before,.nav:after,.nav:before,.navbar-collapse:after,.navbar-collapse:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.row:after,.row:before{content:" ";display:table}.hide,.visible-xs-block{display:none!important}.card:after,.clearfix:after,.container:after,.dl-horizontal dd:after,.menu-action-more:after,.menu-action-top:after,.nav:after,.navbar-collapse:after,.navbar-header:after,.navbar:after,.row:after{clear:both}.pull-right{float:right!important}.pull-left{float:left!important}@-ms-viewport{width:device-width}@media (max-width:767px){.visible-xs-block{display:block!important}.hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.hidden-sm{display:none!important}}.visible-print{display:none!important}@font-face{font-family:glyphicons-work1;src:url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.eot?v=9);src:url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.eot?v=9#iefix) format('embedded-opentype'),url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.woff?v=9) format('woff'),url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.ttf?v=9) format('truetype'),url(//st.work.ua/fonts/glyphicons-work/glyphicons-work1.svg?v=9#glyphicons-work) format('svg')}.glyphicon{top:3px;display:inline-block;font-family:glyphicons-work1;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.glyphicon-add:before{content:"\2295"}.glyphicon-chevron-down:before{content:"\e259"}.glyphicon-chevron-left:before{content:"\e257"}.glyphicon-chevron-right:before{content:"\e258"}.glyphicon-company:before{content:"\2645"}.glyphicon-search:before{content:"\e003"}.header-inverse .navbar-nav li.active a{color:#000!important}.header-inverse .link-section{margin:10px 0 5px}.navbar{border:0}.navbar-inverse .navbar-header{float:left;margin-left:0}@media (max-device-width:480px) and (orientation:portrait),only screen and (max-width:320px){.navbar-inverse .navbar-header{padding-top:15px}}.navbar-inverse .navbar-nav{float:right}@media (max-width:767px){.navbar-inverse .navbar-nav{margin:0}}.navbar-inverse .navbar-nav .glyphicon{top:0}.navbar-inverse .navbar-nav span.visible-xs-block{font-size:11px;font-weight:400}h1,h2{font-weight:700}.navbar-inverse .navbar-nav>li{float:left;font-size:20px;font-weight:700;margin-left:40px;padding-bottom:0}.navbar-inverse .navbar-nav>li>a{height:70px;padding:15px 0 0}@media (min-width:768px){.navbar-inverse .navbar-nav .glyphicon{display:none}.navbar-inverse .navbar-nav>li>a{padding:23px 0 0}.navbar-inverse{margin-bottom:10px}}.navbar-inverse .navbar-nav .nav-name,.navbar-inverse .navbar-nav .nav-name-xs{display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.navbar-inverse .navbar-nav .nav-name{max-width:240px}@media (max-width:991px){.navbar-inverse .navbar-nav>li{margin-left:25px;text-align:center}.navbar-inverse .navbar-nav .nav-name{max-width:120px}}.navbar-inverse .navbar-nav .nav-name-xs{max-width:70px}@media (min-width:430px) and (max-width:767px){.navbar-inverse{margin-top:10px}}@media (max-width:480px){.navbar-inverse{margin-top:0}}dl,ol,ul{margin-top:10px}.navbar-inverse .navbar-header{padding-top:13px}@media (max-width:767px){.navbar-inverse .navbar-nav>li{font-size:30px}.navbar-inverse .navbar-nav>li>a{line-height:13px}.navbar-inverse .navbar-header{padding-top:7px}h1{font-size:24px}}@media (max-width:429px) and (orientation:portrait),(max-width:480px){.navbar-inverse .navbar-header{padding-top:15px}}a#logo-emp{background-image:url(//st.work.ua/i/work-ua-emp-ru.png?v=1);background-size:150px 50px;background-repeat:no-repeat;display:block;float:left;width:150px;height:50px}@media (max-width:480px){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye.png?v=1)!important;background-size:40px 40px;width:40px;height:55px;margin:0}}@media (max-width:480px) and (-webkit-min-device-pixel-ratio:2),(max-width:480px) and (min-resolution:192dpi){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye@2x.png?v=1)!important;background-size:40px auto!important}}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-emp-ru@2x.png?v=1);background-size:150px auto}}@media (max-width:429px) and (orientation:portrait){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye.png?v=1)!important;background-size:40px 40px;width:40px;height:55px;margin:0}}@media (max-width:429px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2),(max-width:429px) and (orientation:portrait) and (min-resolution:192dpi){a#logo-emp{background-image:url(//st.work.ua/i/work-ua-bullseye@2x.png?v=1)!important;background-size:40px auto}}h1,h2{margin:0}h1{padding:25px 0 5px}h2{color:#2c3f52;padding:20px 0 5px}@media (max-width:767px){h2{font-size:19px}}p{margin:10px 0}ol,ul{margin-bottom:5px}ol li,ul li{padding-bottom:5px}hr{margin:15px 0 25px}.breadcrumb{margin-bottom:0}.breadcrumb a{color:#6b7886}.breadcrumb .glyphicon-chevron-right{font-size:12px;top:1px}.breadcrumb>li+li:before{content:none;padding:0}.col-md-4.col-right,.col-md-8.col-left{min-height:1px;padding-left:20px;padding-right:20px;position:relative}.breadcrumb li{zoom:1;display:inline\0/}@media (min-width:992px){.col-md-8.col-left{float:left;width:71.5686275%}.col-md-4.col-right{float:left;width:28.4313725%}}.dropdown-menu>.active>a{text-decoration:none;outline:0;color:#000}.dropdown-toggle{display:inline-block}a.text-danger{color:#ff3b30}.text-magenta-light{color:#e95087!important}.main-center{padding-bottom:50px}.main-center>.container{position:relative}.card{background-color:#fff;border:1px solid #e9ebed;margin-bottom:-1px;padding:0 30px 20px;position:relative}.card-indent{margin-bottom:24px;padding-bottom:25px}.list-inline,dl{margin-bottom:0}@media (max-width:767px){.card{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;border-left:none;border-right:0}}.bg-gray{background-color:#f4f5f6}.alert{padding:10px 30px 20px}@media (max-width:767px){.alert{border-radius:0;border-left:none;border-right:0;margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px}}.list-inline>li{display:block;float:left}.dl-horizontal dt{color:#6b7886;font-weight:400;text-align:left;white-space:normal}.dl-horizontal dd{margin-bottom:10px}@media (min-width:768px){.dl-horizontal dt{width:160px}.dl-horizontal dd{margin-left:165px}}.btn-link{padding-left:0;padding-right:0}.btn-link.text-muted{color:#6b7886}.form-group{margin-top:20px}.radio,.radio+.radio{margin-top:5px}.form-control{font-size:19px;padding:7px 10px;-webkit-box-shadow:none;box-shadow:none}textarea.form-control{line-height:inherit}.radio{margin-bottom:5px}label{display:block}.radio label{display:inline-block;padding-left:25px}.radio input[type=radio]{margin-left:-25px}.has-indent{border:1px solid transparent;display:inline-block;margin-top:-5px;padding:0 5px}body{position:relative}.border{border:1px solid #e9ebed}.wordwrap{word-wrap:break-word}.h-15{margin-bottom:15px}.cut-top{margin-top:10px;padding-top:0}.add-top{margin-top:20px}.menu-action-top{background-color:#fff;border-top:1px solid #e9ebed;position:relative}.menu-action-top .container{margin-left:-20px}.menu-action-top .card{border-top:0;padding-top:20px;padding-bottom:15px;position:relative}@media (max-width:767px){.no-pull-xs{float:none!important}.menu-action-top{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px}.menu-action-top .dropdown-menu{left:auto;right:0}.menu-action-top .card{margin-right:-40px;padding-right:0}}.menu-action-top ul.list-inline{margin:0}.menu-action-top ul.list-inline>li{padding:0}.menu-action-top .card .btn,.menu-action-top ul.list-inline span.text-muted{margin:-5px 25px 0 0}@media (max-width:767px){.menu-action-top .card .btn,.menu-action-top ul.list-inline span.text-muted{margin-right:15px}}.menu-action-top span.text-muted{display:inline-block;margin-top:0}.menu-action-top .link-menu-left{display:none}.menu-action-more .dropdown,.menu-action-more .dropdown-extra-item{padding-bottom:0}@media (min-width:768px){.menu-action-more .dropdown-extra-item{margin-right:30px}.menu-action-more .dropdown .dropdown-menu{border-radius:5px}}@media (max-width:767px){.menu-action-more .dropdown-extra-item{padding-bottom:5px}.menu-action-more .dropdown-extra-item a{line-height:1!important;padding:5px 0!important}.menu-action-more .navbar-collapse{-webkit-box-shadow:none;box-shadow:none}.menu-action-more .dropdown .dropdown-menu{background-color:transparent;border:0;border-radius:0;-webkit-box-shadow:none;box-shadow:none;display:block;float:none;padding:0;position:static}.menu-action-more .dropdown .dropdown-menu>li>a{line-height:1;padding:5px 0}.menu-action-more .navbar-nav{margin-top:5px}.menu-action-top .menu-action-more .navbar-nav{margin-top:15px}}@media (min-width:768px){.menu-action-more .navbar-collapse{padding-left:0!important}}.menu-action-more .navbar-nav{margin-bottom:0}.menu-action-more .navbar-nav>li>a{padding:0}.menu-action-more .navbar-toggle{border-radius:0;float:left;margin:0;padding:2px 0 0}.gradient-slim{background:#5856d6;background:-moz-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);background:-webkit-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);background:-o-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);background:-ms-linear-gradient(-82deg,#e4246a 0,#dc286d 13%,#be3a80 20%,#90549e 30%,#5675c1 39%,#3886d3 55%,#00a1f1 70%,#00a1f1 81%,#0085c2 99%,#0085c2 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e4246a', endColorstr='#0085c2', GradientType=1);min-height:10px}.link-back{padding-left:20px;position:relative}.link-back a .glyphicon-chevron-left{font-size:24px;position:absolute;top:1px;left:-5px}.glyph-indent{margin-left:5px;margin-right:5px}.print-footer,.print-header{display:none}.highlight-result{background-color:rgba(255,255,204,.8)!important;background-color:#ffc\0 /!important}</style>
+
+
+
+<link rel="canonical" href="https://www.work.ua/resumes/4156005/" />
+<link rel="alternate" hreflang="ru" href="https://www.work.ua/resumes/4156005/" />
+<link rel="alternate" hreflang="uk" href="https://www.work.ua/ua/resumes/4156005/" />
+</head>
+
+<body data-target="#sidenav-spy" data-spy="scroll">
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W6CVFN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+<header class="header-inverse">
+    <div class="container hidden-print">
+
+<div class="pull-right link-section hidden-xs">
+<a href="/" class="text-magenta-light">Соискателю<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+</div>
+</div>
+
+<nav class="navbar navbar-inverse">
+<div class="container hidden-print">
+<div class="navbar-header">
+<a href="/employer/" id="logo-emp"></a>
+</div>
+<ul class="nav navbar-nav">
+<li  class="active"><a href="/resumes/"><span class="glyphicon glyphicon-search"></span><span class="hidden-xs">Найти резюме</span><span class="visible-xs-block">Резюме</span></a>
+</li>
+<li><a href="/employer/register/"><span class="glyphicon glyphicon-add"></span><span class="hidden-xs">Создать вакансию</span><span class="visible-xs-block">Вакансия</span></a></li>
+<li><a class="visible-xs-block" href="/employer/login/"><span class="glyphicon glyphicon-lock"></span><span class="visible-xs-block">Войти</span></a><a href="/employer/login/" class="btn btn-default hidden-xs">Войти</a></li>
+</ul>
+</div>
+</nav>
+
+
+
+</header>
+
+
+
+<section id="center" class="main-center bg-gray">
+    <div class="gradient-slim"></div>
+    <section class="main-center bg-gray">
+        <div class="container">
+                                <p class="add-top pull-left hidden-print link-back"><a href="/resumes-kyiv-it/?category=1&days=173#4156005"><span class="glyphicon glyphicon-chevron-left"></span><span>К результатам поиска</span></a><span class="text-muted hidden-xs">&nbsp;·&nbsp;</span></p>
+                                    <ol class="breadcrumb add-top pull-left hidden-xs hidden-print">
+                                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/resumes/" title='Резюме' itemprop="url"><span itemprop="title">Резюме</span> <span class="glyphicon glyphicon-chevron-right"></span></a></li>
+                                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/resumes-kyiv/" title='Резюме в Киеве' itemprop="url"><span itemprop="title">в Киеве</span> <span class="glyphicon glyphicon-chevron-right"></span></a></li>
+                                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/resumes-kyiv-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA/" title='Резюме тестировщик в Киеве' itemprop="url"><span itemprop="title">Тестировщик</span> <span class="glyphicon glyphicon-chevron-right"></span></a></li>
+                            </ol>
+
+<div class="clearfix h-15"></div>
+
+
+            <div class="row row-print">
+                <div class="col-md-8 col-left">
+
+
+
+                    <div class="print-header">
+                        <div class="clearfix">
+                            <div class="pull-left">
+                                <img src="//st.work.ua/i/jobs/print_logo.svg" width="75" height="15" class="hidden-print-ie8">
+                                <!--[if lte IE 8]>
+                                <img src="//st.work.ua/i/jobs/print_logo.png" width="75" height="15">
+                                <![endif]-->
+                            </div>
+                            <div class="pull-right">Сайт поиска работы №1 в Украине</div>
+                        </div>
+                    </div>
+
+                    <!-- .menu-action-top -->
+                    <div class="menu-action-top hidden-print affix-top" data-spy="affix" data-offset-top="195" data-offset-bottom="0">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-8 col-left">
+                                    <div class="card">
+                                        <ul class="list-inline">
+                                                                                        <li class="link-menu-left"><a href="/resumes-kyiv-it/?category=1&days=173#4156005" title="Вернуться к К результатам поиска"><span class="glyphicon glyphicon-chevron-left"></span></a></li>
+                                                                                        <li>
+                                                <a href="/noscript/" onclick="return false;" data-rid="4156005" class="btn btn-default save-in ">Сохранить в отклики</a>
+                                                <span class="text-muted hide">Уже в <a href="javascript:;" class="link-response">откликах</a></span>
+                                            </li>
+                                        </ul>
+                                        <div class="menu-action-more hidden-print">
+                                            <div class="clearfix visible-xs-block">
+                                                <a href="javascript:;" role="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-collapse-1" aria-expanded="false"><span class="glyphicon glyphicon-chevron-down glyph-indent"></span></a>
+                                            </div>
+                                            <div class="collapse navbar-collapse" id="bs-example-collapse-1">
+                                                <ul class="nav navbar-nav">
+<li class="dropdown-extra-item"><a href="/employer/register/" class="download-resume">Скачать в&nbsp;формате Word</a></li>
+                                                    <li class="dropdown">
+                                                        <a href="javascript:;" class="dropdown-toggle hidden-xs" role="button" id="dropdownMenu-1" data-toggle="dropdown" aria-expanded="false"><span class="hidden-xs">Еще</span><span class="glyphicon glyphicon-chevron-down glyph-indent"></span></a>
+                                                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu-1">
+                                                                                                                        <li><a class="offer-job" href="/employer/my/jobs/send/?id=4156005" data-rid="4156005">Предложить вакансию</a></li>
+                                                            <li><a class="send-message" href="javascript:;" data-rid="4156005">Отправить сообщение автору</a></li>
+                                                            <li><a class="printout" href="/resumes/4156005/print/" target="_blank">Распечатать</a></li>
+                                                            <li><a rel="nofollow" href="/resumes-kyiv-it-junior+qa+engineer/?advs=1&amp;anyword=1">Найти похожие резюме</a></li>
+                                                            <li><a class="complain" href="javascript:;" data-rid="4156005">Пожаловаться на&nbsp;это резюме</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- /.menu-action-top -->
+
+                    <div class="card card-indent wordwrap">
+
+                                                                        <div class="add-top">
+                            <span class="text-muted">Резюме от&nbsp;4 августа 2017 </span> <span class="label label-pro" data-toggle="popover" data-content="Профессиональное резюме — это резюме, в котором заполнены блоки «Опыт работы», «Образование» и подтверждена эл.&amp;nbspпочта.<br><a href='/help/?id=160' class='bp-more' target='blank'>Подробнее<span class='glyphicon glyphicon-chevron-right'></span></a>">PRO</span></div>
+<div class="pick-full-load hidden-print">
+<img width="300" height="400" src="//i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" alt="">
+</div>
+
+                        <div class="row">
+                            <div class="col-sm-8">
+                                <h1 class="cut-top">Литвин Богдан Романович</h1>
+                                                                <h2>Junior QA engineer</h2>
+                                <p class="text-muted">Полная занятость.</p>
+                                <dl class="dl-horizontal">
+                                                                    <dt>Дата рождения:</dt>
+                                    <dd>12 октября 1995 <span class="text-muted">(21&nbsp;год)</span></dd>
+                                    <dt>Город:</dt>
+                                    <dd><span class=highlight-result>Киев</span></dd>
+                                                                                                </dl>
+                            </div>
+                                                            <div class="col-xs-12 col-sm-4">
+                                    <div class="pull-right no-pull-xs">
+                                        <p class="add-top"><img src="//i.work.ua/sent_photo/2/4/6/246a8e2e4e641f49aa091bef4113edf9.jpg" width="150" height="200" alt="" class="border"></p>
+                                    </div>
+                                </div>
+                                                    </div>
+
+                                                <hr class="">
+                                                <h2 class="cut-top " id="contactInfo">Контактная информация</h2>
+                                                    <div class="alert alert-warning add-top hidden-print" id="contactMessage" data-type="showMessage">
+                                    <p>Чтобы открыть контакты, <a href="/employer/login/">войдите</a> как работодатель или <a href="/employer/register/">зарегистрируйтесь</a>.</p>
+                                                                                                    </div>
+                                                                            <div class="visible-print link-contact">Получить контакты этого резюме можно на странице https://www.work.ua/resumes/4156005/</div>
+
+                                                    <hr>
+                            <h2 class="cut-top">Опыт работы</h2>
+                                                            <h3>Smm-менеджер</h3>
+                                <p>с 03.2016 по
+                                    05.2016                                     <span class="text-muted">(2&nbsp;месяца)</span><br>
+                                                                            ecoman, <span class=highlight-result>Киев</span> <span class="text-muted">(кожаные изделия)</span>
+                                                                    </p>                                                                        <p class="text-muted" data-expid="5066657">Был лидером команды 10ти человек.<br />
+Разработка детального плана по продвижению бренда.<br />
+Создание контент-плана,акций,фишек для повышения узнаваемости,конкурсов.<br />
+Ведения пабликов в сетях вк,фб.</p>
+                                                                                            <h3>Менеджер по продажам</h3>
+                                <p>с 05.2015 по
+                                    10.2015                                     <span class="text-muted">(5&nbsp;месяцев)</span><br>
+                                                                            Weider, <span class=highlight-result>Киев</span> <span class="text-muted">(Спортивное питание)</span>
+                                                                    </p>                                                                        <p class="text-muted" data-expid="5066658">Обязанности: продажа,учет,контроль.<br />
+Достижения : значительное повышение продаж,премии,похвалы.</p>
+                                                                                            <h3>Менеджер по продажам</h3>
+                                <p>с 01.2012 по
+                                    01.2014                                     <span class="text-muted">(2&nbsp;года)</span><br>
+                                                                            Зенит, Жашков <span class="text-muted">(Мобильная связь,телефоны,цифровая техника)</span>
+                                                                    </p>                                                                        <p class="text-muted" data-expid="5066660">Консультирование клиентов.<br />
+Повышение продаж.<br />
+Установка ПО,прошивка,программный ремонт.</p>
+
+                                                    <hr>
+                            <h2 class="cut-top">Образование</h2>
+                                                            <h3>КНЭУ</h3>
+                                <p>Международная экономика и менеджмент, <span class=highlight-result>Киев</span></p>
+                                <p>
+                                    Высшее, с 09.2012 по 12.2017
+                                    <span class="text-muted">(5&nbsp;лет&nbsp;3&nbsp;месяца)</span>
+                                </p>                                    <p class="text-muted">В 2016 году закончил бакалавра на дневной форме.<br />
+Сейчас учусь на магистратуре, но ищу работу для прохождения практики. Работу хочу в сфере <span class=highlight-result>IT</span>. Вижу себя там и имею огромное желание развиваться и приносить профит компании.</p>
+
+                                                    <hr>
+                            <h2 class="cut-top">Дополнительное образование</h2>
+                            <ul>
+                                                                    <li>Курсы по программированию на языке Pascal и VisualBasic (2011, 6 месяцев)</li>
+                                                                    <li>Курсы по SMM от компании Stud-Point (2016, 1 месяц)</li>
+                                                                    <li>Lynda - Foundations of Programming. Fundamentals (2017, 1 месяц)</li>
+                                                                    <li>Lynda - Java Essential Training (2017, 1 месяц)</li>
+                                                                    <li>SoloLearn – Java Tutorial course (2017,1 месяц)</li>
+                                                                    <li>SoloLearn - HTML Fundamental course (2017)</li>
+                                                            </ul>
+
+                                                    <hr>
+                            <h2 class="cut-top">Профессиональные и другие навыки</h2>
+                            <ul>                                    <li>Навыки работы с компьютером<br><span class="text-muted">С 5-летнего возраста с компьютером на &quot;Ты&quot;.В возрасте шести лет учил мужиков обращаться с виндой :)) <br />
+Дело с ПО имел всегда, смекалка есть. Вникнуть в суть и освоить для меня не проблема.</span></li>
+
+                                                            </ul>
+
+                                                    <hr>
+                            <h2 class="cut-top">Знание языков</h2>
+                            <ul>
+                                                                    <li>Английский — средний</li>
+                                                                    <li>Украинский — эксперт</li>
+                                                                    <li>Русский — эксперт</li>
+                                                            </ul>
+
+
+                                                    <hr>
+                            <h2 class="cut-top">Дополнительная информация</h2>
+                            <p id="addInfo">Здравствуйте! Меня зовут Богдан.<br />
+Имею большое желание пойти стажером в сферу <span class=highlight-result>IT</span>. Рассматриваю вакансии Project manager/QA/разработка. Для меня главное - получить бесценный опыт в этой сфере.<br />
+<br />
+Cферу <span class=highlight-result>IT</span> любил всегда,и сейчас хочу двигаться именно в ней.<br />
+Прошел в школьные годы курсы по программированию на языке &quot;Паскаль&quot;. Также неплохо осваивал HTML,и имел свои сайты и форумы на мобильную тематику. В это же время прошивал не одну сотню мобильных телефонов, так как это мне легко дается.<br />
+Брал участие в школьных олимпиадах по программированию на языке Pascal и VisualBasic и занимал призовые места. Также прошел множество курсов по программированию.<br />
+Есть начальные знания Java и JS.<br />
+<br />
+<br />
+Схватываю все быстро,адаптируюсь также быстро к различным сферам деятельности. Как пример:<br />
+-совершенно не умея раскрепощаться и двигаться,начал сам тренировать танцы, и спустя пару лет стал чемпионом Украины по танцам в стиле electro;<br />
+-будучи слабым, стал самостоятельно заниматься пауэрлифтингом,и спустя полтора года стал серебряным призером Чемпионата Украины по становой тяге(230кг при весе 86кг среди юношей до 19 лет);<br />
+-и многое другое.<br />
+<br />
+Спасибо за внимание, буду рад предложениям :)</p>
+
+                        <hr class="wide hidden-print">
+                        <a href="/noscript/" onclick="return false;" data-rid="4156005" class="hidden-print btn btn-default save-in  "><span class="hidden-print">Сохранить в отклики</span></a>
+                        <span class="text-muted hide hidden-print">Уже в <a href="javascript:;" class="link-response">откликах</a></span>
+                        <a href="#" class="link-up hidden-print" title="Наверх"><span class="glyphicon glyphicon-chevron-up hidden-print"></span></a>
+                    </div>
+
+                                                                <h2 class="hidden-print">Похожие резюме</h2>
+                        <ul class="list-dot-gray text-muted hidden-print">
+                                                            <li>
+                                    <a href="/resumes/3672538/"><b>Тестер сайтов (Frontend), тестировщик ПО, Junior QA Engineer (Intern)</b></a>,
+                                    Киев.
+                                </li>
+                                                            <li>
+                                    <a href="/resumes/3167215/"><b>Software tester, Junior QA engineer</b></a>,
+                                    Киев.
+                                </li>
+                                                            <li>
+                                    <a href="/resumes/3076104/"><b>Junior QA engineer, Software tester</b></a>,
+                                    Киев.
+                                </li>
+                                                            <li>
+                                    <a href="/resumes/3778489/"><b>Junior QA/QA Engineer</b></a>,
+                                    Киев.
+                                </li>
+                                                            <li>
+                                    <a href="/resumes/3747549/"><b>Junior QA Engineer, Software Tester</b></a>,
+                                    Киев.
+                                </li>
+                                                            <li>
+                                    <a href="/resumes/1355680/"><b>QA Engineer, Tester, тестировщик</b></a>,
+                                    Киев, Харьков.
+                                </li>
+                                                    </ul>
+                        <p class="hidden-print"><a rel="nofollow" href="/resumes-kyiv-it-junior+qa+engineer/?advs=1&amp;anyword=1"
+                           title="Резюме по запросу «Junior QA engineer в Киеве»">Все похожие резюме<span class="glyphicon glyphicon-chevron-right"></span></a></p>
+
+                                        <div class="row hidden-print">
+                        <div class="col-md-6">
+                            <h5>Резюме в&nbsp;категории</h5>
+                            <ul class="list-dot-gray">
+                                                                    <li>
+                                        <a href="/resumes-it/" title="Специалисты в сфере IT, компьютеры, интернет">IT, компьютеры, интернет</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h5>Резюме по&nbsp;городам</h5>
+                            <ul class="list-dot-gray margin-top-xs">
+                                                                    <li>
+                                        <a href="/resumes-kyiv" title="Подбор персонала в Киеве">
+                                            Резюме в Киеве</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+                                        <p class="text-muted hidden-print">Сравните свои требования и&nbsp;зарплату с&nbsp;вакансиями других компаний:</p>
+<ul class="list-dot-gray margin-top-xs hidden-print">
+                                                  <li><a href="/jobs-kyiv-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA/" title="Работа тестировщик в Киеве">
+                                Вакансии «Тестировщик в Киеве»</a></li>
+                                                    <li><a href="/jobs-kyiv/" title="Работа в Киеве">
+                                Вакансии в Киеве</a></li>
+</ul>
+
+                    <div class="print-footer">
+                        <img width="15" height="15" src="//st.work.ua/i/jobs/circle_black.svg" class="hidden-print-ie8">
+                        <!--[if lte IE 8]>
+                        <img src="//st.work.ua/i/jobs/circle_black.png" width="15" height="15">
+                        <![endif]-->
+                        Резюме размещено по адресу: www.work.ua/resumes/4156005
+                    </div>
+                </div><!-- /.col-md-8 col-left -->
+
+                <div class="hidden-xs hidden-sm col-md-4 col-right hidden-print">
+                    <noindex><a href="/go.php?bid=1979" target="_blank"  rel="nofollow" class="no-hover"><img src="//i.work.ua/b/1979.png" width="240" height="400" alt="" border="0"></a></noindex>
+
+
+
+
+                                            <div class="h-30"></div>
+                        <div class="panel panel-hot">
+                            <div class="panel-heading"><b>VIP-резюме</b></div>
+                            <div class="panel-body text-muted">
+                                                                    <div>
+                                        <a class="block" href="/resumes/4132425/"><b>Дизайнер (реклама, полиграфия, web)</b><span class="text-muted">, 6000&nbsp;грн, Винница, Житомир, </span><u>еще&nbsp;7&nbsp;городов</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/3997562/"><b>Проектный тренер, спикер</b><span class="text-muted">, 7000&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;5&nbsp;городов</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/4054252/"><b>Специалист по YouTube, видеомаркетолог</b><span class="text-muted">, 4000&nbsp;грн, Днепр (Днепропетровск), Запорожье, </span><u>еще&nbsp;8&nbsp;городов</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/2809104/"><b>Программист 1С, архитектор 1С, руководитель ИТ, доцент</b><span class="text-muted">, 50000&nbsp;грн, Киев</span></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/3997574/"><b>YouTube-менеджер, монтажер видео</b><span class="text-muted">, 8000&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;5&nbsp;городов</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/4015446/"><b>IT-специалист, аудио-видеомонтажер, инженер внутреннего ТВ и радио для магазинов</b><span class="text-muted">, 15000&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;19&nbsp;городов</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/426693/"><b>Руководитель ИТ</b><span class="text-muted">, Киев</span></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/4172633/"><b>Data Analyst</b><span class="text-muted">, 50000&nbsp;грн, Киев</span></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/4093289/"><b>Руководитель ЦОД, ДАТА-центра, IT-департамента, CIO</b><span class="text-muted">, Киев</span></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/616755/"><b>Финансист, аналитик, консультант</b><span class="text-muted">, Днепр (Днепропетровск), Запорожье, </span><u>еще&nbsp;5&nbsp;городов</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/3109377/"><b>Трафик-менеджер, media buyer, интернет-маркетолог</b><span class="text-muted">, 13000&nbsp;грн, Днепр (Днепропетровск), Киев, </span><u>еще&nbsp;3&nbsp;города</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/1940030/"><b>Специалист по контекстной рекламе Google Adwords, Yandex Direct</b><span class="text-muted">, 3000&nbsp;грн, Винница, Днепр (Днепропетровск), </span><u>еще&nbsp;22&nbsp;города</u></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/2163245/"><b>Интернет-маркетолог (SMM, SEO, контент-менеджмент)</b><span class="text-muted">, 5000&nbsp;грн, Киев</span></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/2796602/"><b>Графический, технический дизайнер, оператор ПК (техподдержка), контент-менеджер</b><span class="text-muted">, 7000&nbsp;грн, Киев</span></a>
+                                    </div>
+                                                                    <div>
+                                        <a class="block" href="/resumes/4010086/"><b>Специалист по социальным сетям (создание образа компании в интернете)</b><span class="text-muted">, 8000&nbsp;грн, Киев</span></a>
+                                    </div>
+                                                                <div><a class="block text-orange" href="/help/?id=136">Как сделать резюме VIP?</a></div>
+                            </div>
+                        </div>
+                                    </div>
+
+            </div><!-- /.row -->
+
+        </div><!-- /.container -->
+    </section>
+</section>
+
+<footer class="footer-inverse">
+<div class="container hidden-print">
+<div class="row">
+<div class="col-sm-9 col-md-9">
+<div class="dropdown"><a href="javascript:;" class="dropdown-toggle" role="button" id="dropdownMenu100" data-toggle="dropdown" aria-expanded="true">Русский<span class="glyphicon glyphicon-chevron-down glyph-indent"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu100">
+<li class="active"><a href="">Русский</a></li>
+<li><a href="/ua/resumes/4156005/?setlp=ua">Українська</a></li>
+</ul></div>
+<ul class="list-inline menu-action">
+<li><a href="/services/" class="text-muted">Услуги сайта</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/about-us/" class="text-muted">О нас</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/about-us/contact/" class="text-muted">Контакты</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/news/site/" class="text-muted">Новости сайта</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/employer/resources/" class="text-muted">Ресурсы</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="/about-us/conditions/" class="text-muted">Условия использования</a></li>
+
+</ul>
+</div>
+<div class="col-sm-3 col-md-3">
+<a href="/" class="btn btn-supplement pull-right no-pull-xs" role="button">
+Соискателю
+
+<span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+</div>
+
+<div class="text-muted">©&nbsp;2006–2017 Work.ua. Сайт поиска работы №1 в Украине.</div>
+
+<hr class="hidden-xs">
+
+<div class="row hidden-xs">
+<div class="col-sm-5 col-md-5">
+<p class="text-muted">Сделано в компании «<a href="http://www.reactor.com.ua/" target="_blank" class="text-danger">Реактор</a>».</p>
+</div>
+<div class="col-sm-7 col-md-7">
+<ul class="list-inline menu-action pull-right no-pull-xs" style="margin-top: 0">
+<li><a href="http://www.education.ua/" class="text-muted" target="_blank">Образование</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="http://www.trn.ua/" class="text-muted" target="_blank">Тренинги</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="http://vse10.ru/" class="text-muted" target="_blank">Клавиатурный тренажер</a></li>
+<li>&nbsp;&middot;&nbsp;</li>
+<li><a href="http://www.ratatype.com/" class="text-muted" target="_blank">Typing tutor</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+
+<link href="//st.work.ua/css/bootstrap/main-min_1501747688.css" rel="stylesheet">
+        <link href="//st.work.ua/css/bootstrap/print-min_1489556417.css" rel="stylesheet"  media="print"/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//st.work.ua/js/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="//i.work.ua/ru/js/lp_1501076143.js"></script>
+
+
+
+<script src="//st.work.ua/js/work-min_1500376574.js"></script>
+
+
+
+<script src="//st.work.ua/js/jqplugin/history-edge-min_1432098216.js"></script>
+
+
+<script src="//st.work.ua/js/employer/employer_publications_dialogs-min_1491980986.js"></script>
+<script src="//st.work.ua/js/resumes-one-min_1491556611.js"></script>
+<script src="//st.work.ua/js/employer/send-message-min_1499168401.js"></script>
+
+
+
+
+
+<script src="//st.work.ua/js/bootstrap/bootstrap-min_1489556447.js"></script>
+
+
+<script src="//st.work.ua/js/bootstrap/bootstrap-affix-fix-min_1489556442.js"></script>
+
+<script>
+$('document').ready(function(){
+
+pagefunc.Init();
+        initHandlers();
+ if (typeof closeMessWindow === "function")
+{
+closeMessWindow();
+}
+});
+</script>
+
+    <noindex>
+
+<div style="display:none;">
+    <a rel="nofollow" id="iuaCounter" href="http://www.i.ua/" target="_blank" onclick="this.href='http://i.ua/r.php?952'" title="Rated by I.UA" class="no-hover"><noscript><img src="https://r.i.ua/s?u952&p6" border="0" width="88" height="31" /></noscript></a>
+    <div id="bigmirCounter">
+        <noscript><a href="http://www.bigmir.net/" target="_blank" style="padding-right:4px"><img src="https://c.bigmir.net/?v132195&s132195&t2"
+            width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a></noscript>
+    </div>
+</div>
+
+
+<script>
+function pageLoaded(d){var f=window,e=f.onload;if(f.addEventListener){f.addEventListener("load",d,!1)}else{if(f.attachEvent){f.attachEvent("onload",d)}else{f.onload=function(){if(typeof e==="function"){e()}d()}}}}function loadScriptCounters(i,f){var l,e="script",k=document,d=k.getElementsByTagName(e)[0];
+if(f&&k.getElementById(f)){return}l=k.createElement(e);l.id=f;l.src=i;d.parentNode.insertBefore(l,d)}
+function BM_Draw(a){if(document.getElementById("bigmirCounter")) document.getElementById("bigmirCounter").innerHTML=('<table cellpadding="0" cellspacing="0" border="0" ><tr><td><div class="cont"><div class="cent"><div><a rel="nofollow" class="no-hover" href="http://www.bigmir.net/" target="_blank">bigmir<span>)</span>net</a></div><div class="counters"><div>'+a.hosts+"</div><div>"+a.hits+'</div></div><br clear="all"/></div></div></td></tr></table>')
+}function bigmirCounter(){var bmN=navigator,bmD=document;bmD.cookie="b=b; path=/";var i=0,bs=[],bm={o:1,v:132195,s:132195,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()*1000000)),w:0};for(var f=self;f!=f.parent;f=f.parent){bm.w++}try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins["Shockwave Flash"])){bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,""))
+}else{for(var f=3;f<20;f++){if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")')){bm.m=f}}}}catch(e){}try{bm.y=bmN.javaEnabled()?1:0}catch(e){}try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){}r=bmD.referrer.slice(7);
+if(r&&r.split("/")[0]!=window.location.host){bm.f=escape(r).slice(0,400);bm.v^=r.length}bm.v^=window.location.href.length;for(var x in bm){if(/^[ovstcnwmydrf]$/.test(x)){bs[i++]=x+bm[x]}}loadScriptCounters("https://c.bigmir.net/?"+bs.join("&"),"bigmir-counter")
+}pageLoaded(function(){setTimeout(bigmirCounter,50)});function iuaCounter(){iS='<img src="'+(window.location.protocol=="https:"?"https":"http")+"://r.i.ua/s?u952&p6&n"+Math.random();iD=document;if(!iD.cookie){iD.cookie="b=b; path=/"}if(iD.cookie){iS+="&c1"
+}iS+="&d"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)+"&w"+screen.width+"&h"+screen.height;iT=iR=iD.referrer.replace(iP=/^[a-z]*:\/\//,"");iH=window.location.href.replace(iP,"");((iI=iT.indexOf("/"))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI)){iS+="&f"+escape(iR)}iS+="&r"+escape(iH);iD.getElementById("iuaCounter").innerHTML=(iS+'" border="0" width="88" height="31" />')}pageLoaded(function(){setTimeout(iuaCounter,50)});
+</script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '712180692188430']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=712180692188430&amp;ev=PixelInitialized" /></noscript>
+</noindex>
+<script type="text/javascript">
+(function() {
+var co = document.createElement("script"); co.type = "text/javascript"; co.async = true;
+cntrs = window.cntrs || [];
+var params = "";
+for (var i = 0, l = cntrs.length; i < l; i++) {
+params = params + "&b["+(100+i)+"]="+cntrs[i][0];
+if (cntrs[i][1] != undefined) params = params + "&nc["+(100+i)+"]=1";
+if (cntrs[i][2] != undefined) params = params + "&uc["+(100+i)+"]=1";
+}
+co.src = "/_data/counter.php?b[0]=56&nc[0]=1&b[1]=731&nc[1]=1&b[2]=1979&uc[2]=1"+params+"&rnd=5984633dc5fcb";
+var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(co, s);
+})();
+</script>
+</body>
+</html>
